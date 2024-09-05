@@ -1,6 +1,8 @@
 ---
-layout: default
 title: Parts List
+layout: single
+permalink: /parts-list/
+class: wide
 ---
 
 <h1>Parts List</h1>

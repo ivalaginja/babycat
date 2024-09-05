@@ -1,3 +1,4 @@
 title: BabyCAT
 description: "Coronagraph demonstration testbed: Learn, Build, and Experiment"
 theme: minimal-mistakes-jekyll
+include: ["_pages"]
