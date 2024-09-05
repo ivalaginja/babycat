@@ -4,8 +4,6 @@ layout: single
 permalink: /about/
 ---
 
-# About
-
 ## Purpose of the Project
 
 The BabyCAT project aims to provide a comprehensive and accessible coronagraph demonstration testbed. It is designed to help students, researchers, and enthusiasts learn about coronagraphy, build their own setups, and experiment with different configurations.
