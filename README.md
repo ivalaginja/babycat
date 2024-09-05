@@ -36,3 +36,7 @@ To run the BabyCAT website locally, follow these steps:
    ```
 
 You should now see the BabyCAT website running locally on your machine.
+
+## Note on Jekyll Version
+
+The Jekyll version 4.2.0 listed in the Gemfile only supports Ruby 3.0.x. The latest version of Ruby 3.0.x is 3.0.7.
