@@ -170,3 +170,29 @@ footer .contact-info a {
 footer .contact-info a:hover {
     color: var(--accent-color);
 }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    header .navigation ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .hero .hero-text {
+        top: 40%;
+    }
+
+    .quick-overview .overview-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .quick-overview .overview-item img {
+        margin-bottom: 10px;
+    }
+}
