@@ -11,7 +11,7 @@ header:
   caption: "Photo credit: [**STScI/RMOL**](https://www.stsci.edu/stsci-research/research-topics-and-programs/russell-b-makidon-optics-laboratory)"
 excerpt: "A portable coronagraph bench."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Welcome to the BabyCAT website! BabyCAT is a portable coronagraph bench designed to interactively demonstrate coronagraphy. You can download a full parts list and build your own BabyCAY - make sure to let us know if you do!'
 feature_row:
   - title: "About the project"
     excerpt: "Read more about the BabyCAT project and the team behind it."
