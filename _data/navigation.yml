@@ -1,8 +1,5 @@
 main:
-  - title: "Parts"
+  - title: "Parts List"
     url: /parts-list/
   - title: "About"
     url: /about/
-  - title: "Contact"
-    url: /contact/
-
