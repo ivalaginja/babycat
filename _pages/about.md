@@ -51,3 +51,10 @@ The following institutions and groups have built their own version of BabyCAT:
 
 - SASP student presentation by Luca's Batista: [Recording](https://cloudproject.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bb1e9b5-8229-426e-a6fc-aaa400fe927a) - starting at 31:18
 - Batista et al. (2020): [BAAS, Vol. 52, No. 1](https://ui.adsabs.harvard.edu/abs/2020AAS...23520313B/abstract)
+
+## Team
+
+- **Website**: [Iva Laginja](https://ivalaginja.github.io/)
+- **Optical design**: Rémi Soummer and Greg Brady
+- **Diagrams and education materials**: Lucas Batista
+- **Parts list**: Greg Brady, Evelyn McChesney, Jules Fowler, Iva Laginja
