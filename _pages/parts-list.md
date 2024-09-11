@@ -1,6 +1,7 @@
 ---
 title: Parts List
-layout: splash
+layout: single
+classes: wide
 permalink: /parts-list/
 sidebar:
   nav: "parts"
