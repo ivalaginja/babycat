@@ -5,31 +5,34 @@ permalink: /parts-list/
 class: wide
 ---
 
-<h1>Parts List</h1>
-
 <table>
     <thead>
         <tr>
-            <th>Component Name</th>
             <th>Description</th>
-            <th>Image</th>
             <th>Quantity</th>
-            <th>Source</th>
             <th>Price Estimate</th>
+            <th>Source</th>
+            <th>Vendor</th>
+            <th>Component Name</th>
+            <th>Assembly Location</th>
+            <th>Notes</th>
         </tr>
     </thead>
     <tbody>
-        {% for part in site.data.parts-list %}
+        {% for part in site.data.parts_list %}
         <tr>
-            <td>{{ part.name }}</td>
-            <td>{{ part.description }}</td>
-            <td><img src="{{ part.image }}" alt="{{ part.name }}"></td>
-            <td>{{ part.quantity }}</td>
-            <td><a href="{{ part.source }}" target="_blank">Buy here</a></td>
-            <td>{{ part.price }}</td>
+            <td>{{ part.Description }}</td>
+            <td>{{ part.Quantity }}</td>
+            <td>${{ part["Unit price estimate ($)"] }}</td>
+            <td><a href="{{ part.Source }}" target="_blank">{{ part.Source }}</a></td>
+            <td>{{ part.Vendor }}</td>
+            <td>{{ part.Name }}</td>
+            <td>{{ part["Assembly location"] }}</td>
+            <td>{{ part.Notes }}</td>
         </tr>
         {% endfor %}
     </tbody>
 </table>
 
-<p><a href="/assets/data/parts-list.csv" download>Download PDF version of the parts list</a></p>
+
+

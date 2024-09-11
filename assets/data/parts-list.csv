@@ -1,6 +1,0 @@
-name,description,image,quantity,source,price
-Lens,"Convex lens for focusing light","/assets/images/lens.jpg",1,"https://example.com/lens",10.00
-Mirror,"Flat mirror for reflecting light","/assets/images/mirror.jpg",2,"https://example.com/mirror",5.00
-Beam Splitter,"Splits a beam of light into two paths","/assets/images/beam-splitter.jpg",1,"https://example.com/beam-splitter",15.00
-Optical Bench,"Bench for mounting optical components","/assets/images/optical-bench.jpg",1,"https://example.com/optical-bench",50.00
-Laser,"Laser source for the setup","/assets/images/laser.jpg",1,"https://example.com/laser",100.00

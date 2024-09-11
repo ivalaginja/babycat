@@ -1,0 +1,339 @@
+- Name: .nan
+  Description: Aperture mask
+  Source: https://lenoxlaser.com/contact/
+  Unit price estimate ($): .nan
+  Quantity: 1.0
+  Assembly location: Aperture
+  Vendor: Lenox Laser
+  Notes: "Custom blackened aperture stop: 2.5 mm diameter hole, to mount in a 1\u201D\
+    \ lens mount"
+- Name: "ID15 - Mounted Standard Iris, \xD815.0 mm Max Aperture, TR3 Post"
+  Description: Lyot stop iris
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=ID15
+  Unit price estimate ($): 55.0
+  Quantity: 1.0
+  Assembly location: LS
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: Pinhole Mirror
+  Description: Focal-plane mask
+  Source: https://lenoxlaser.com/shop/optical-apertures/standard-apertures/pinhole-mirrors/
+  Unit price estimate ($): 552.5
+  Quantity: 1.0
+  Assembly location: FPM
+  Vendor: Lenox Laser
+  Notes: 'Diameter: 500 um, Angle of incidence 0 deg'
+- Name: DT12 - 1/2" Dovetail Translation Stage, 8-32 Taps
+  Description: FPM translation stage
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=DT12
+  Unit price estimate ($): 85.0
+  Quantity: 1.0
+  Assembly location: FPM
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: SM1L10 - SM1 Lens Tube, 1.00" Thread Depth, One Retaining Ring Included
+  Description: FPM protection cap
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L10
+  Unit price estimate ($): 15.0
+  Quantity: 1.0
+  Assembly location: FPM
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: "LMR1S - \xD81\" Lens Mount with Internal and External SM1 Threads, 8-32 Tap"
+  Description: "1\u201D lens mount for FPM"
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1S
+  Unit price estimate ($): 30.0
+  Quantity: 1.0
+  Assembly location: FPM
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: .nan
+  Description: ND filter
+  Source: .nan
+  Unit price estimate ($): .nan
+  Quantity: 1.0
+  Assembly location: ND filter
+  Vendor: .nan
+  Notes: Optional
+- Name: "CG15XH1 - Precision Cover Glasses, #1.5H Thickness, \xD825 mm, Pack of 100"
+  Description: Glasses for WFE
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CG15XH1
+  Unit price estimate ($): 65.0
+  Quantity: 1.0
+  Assembly location: WFE
+  Vendor: Thorlabs
+  Notes: 'WFE option #1, pack of 100'
+- Name: "WG10530 - \xD81/2\" N-BK7 Broadband Precision Window, Uncoated, t = 3 mm"
+  Description: Broadband WFE option
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=WG10530
+  Unit price estimate ($): 60.0
+  Quantity: 1.0
+  Assembly location: WFE
+  Vendor: Thorlabs
+  Notes: 'WFE option #2'
+- Name: "LMR05 - Lens Mount with Retaining Ring for \xD81/2\" Optics, 8-32 Tap"
+  Description: "0.5\u201D lens mount"
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR05
+  Unit price estimate ($): 16.0
+  Quantity: 2.0
+  Assembly location: Tools, WFE
+  Vendor: Thorlabs
+  Notes: 'For WFE #2, and FPM aligment'
+- Name: "LMR1 - Lens Mount with Retaining Ring for \xD81\" Optics, 8-32 Tap"
+  Description: "1\u201D lens mount"
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1#ad-image-0
+  Unit price estimate ($): 16.0
+  Quantity: 2.0
+  Assembly location: Aperture, Beam splitter
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: 'KB1X1 - Complete 1" x 1" Kinematic Base, Top and Bottom Plates, #8 Counterbores'
+  Description: "1\u201Dx1\u201D magnetic mounts"
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=KB1X1
+  Unit price estimate ($): 80.0
+  Quantity: 4.0
+  Assembly location: FPM, LS, ND filter, WFE
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: 'KBT1X1 - Top Plate Only of the KB1X1 Kinematic Base, #8 Counterbore'
+  Description: Magnetic mount top plate
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=KBT1X1
+  Unit price estimate ($): 40.0
+  Quantity: 1.0
+  Assembly location: WFE
+  Vendor: Thorlabs
+  Notes: 'For WFE #2'
+- Name: 'KBB1X1 - Bottom Plate Only of the KB1X1 Kinematic Base, #8 Counterbore'
+  Description: Magnetic mount bottom plates
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=KBB1X1
+  Unit price estimate ($): 40.0
+  Quantity: 3.0
+  Assembly location: Breadboard
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: CPS1 - 5 VDC Battery Pack for CPS Laser Diodes, 10 000 mAh
+  Description: Laser battery pack
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CPS1
+  Unit price estimate ($): 40.0
+  Quantity: 1.0
+  Assembly location: Laser
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: "CPS532-C2 - Collimated Laser-Diode-Pumped DPSS Laser Module, 532 nm, 0.9\
+    \ mW, Round Beam, \xD811 mm Housing"
+  Description: Laser diode
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CPS532-C2
+  Unit price estimate ($): 200.0
+  Quantity: 1.0
+  Assembly location: Laser
+  Vendor: Thorlabs
+  Notes: Collimated green laser at 532 nm, Class II
+- Name: "AD11F - SM1-Threaded Adapter for \xD811 mm, \u22650.35\" (8.9 mm) Long Cylindrical\
+    \ Components\_"
+  Description: Laser mount/adapter
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=AD11F
+  Unit price estimate ($): 33.0
+  Quantity: 1.0
+  Assembly location: Laser
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: AB90A - Right-Angle Bracket with Counterbored Slots & 1/4"-20 Tapped Holes
+  Description: Camera brackets
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=AB90A#ad-image-0
+  Unit price estimate ($): 30.0
+  Quantity: 2.0
+  Assembly location: Cameras
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: "RS2P - \xD81\" Pedestal Pillar Post, 1/4\"-20 Taps, L = 2\""
+  Description: "1\u201D post (grey)"
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=RS2P
+  Unit price estimate ($): 30.0
+  Quantity: 2.0
+  Assembly location: Cameras
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: "UPH2 - \xD81/2\" Universal Post Holder, Spring Loaded Locking Thumbscrew,\
+    \ L = 2\" "
+  Description: "0.5\u201D post holders (black)"
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=UPH2#ad-image-0
+  Unit price estimate ($): 35.0
+  Quantity: 11.0
+  Assembly location: Aperture, Beam splitter, LS, Laser, Mirror 1, Mirror 3, Mirror2,
+    ND filter, Tools, WFE
+  Vendor: Thorlabs
+  Notes: One is for the flat mirror
+- Name: "TR2 - \xD81/2\" Optical Post, SS, 8-32 Setscrew, 1/4\"-20 Tap, L = 2\u201D"
+  Description: "0.5\u201D posts"
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=TR2
+  Unit price estimate ($): 6.0
+  Quantity: 11.0
+  Assembly location: Aperture, Beam splitter, LS, Laser, Mirror 1, Mirror 3, Mirror2,
+    ND filter, Tools, WFE
+  Vendor: Thorlabs
+  Notes: One is for the flat mirror
+- Name: ZWO ASI120MC
+  Description: Focal-plane and pupil-plane cameras
+  Source: .nan
+  Unit price estimate ($): 150.0
+  Quantity: 2.0
+  Assembly location: Cameras
+  Vendor: ZWO
+  Notes: ZWO ASI 120 color cameras
+- Name: CF125 - Clamping Fork, 1.24" Counterbored Slot, Universal
+  Description: Clamping forks
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CF125#ad-image-0
+  Unit price estimate ($): 9.0
+  Quantity: 2.0
+  Assembly location: Cameras
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: "CM508-200-G01 - \xD82\" Aluminum-Coated Concave Mirror, f = 200.0 mm"
+  Description: Mirrors f=200mm
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CM508-200-G01
+  Unit price estimate ($): 125.0
+  Quantity: 2.0
+  Assembly location: Mirror 1, Mirror2
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: "CM508-150-G01 - \xD82\" Aluminum-Coated Concave Mirror, f = 150.0 mm"
+  Description: Mirror f=150mm
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CM508-150-G01
+  Unit price estimate ($): 125.0
+  Quantity: 1.0
+  Assembly location: Mirror 3
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: "KM200 - Kinematic Mirror Mount for \xD82\" Optics"
+  Description: Kinematic mirror mount
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=KM200#ad-image-0
+  Unit price estimate ($): 90.0
+  Quantity: 3.0
+  Assembly location: Mirror 1, Mirror 3, Mirror2
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: "EBP1 - Economy 30:70 Beamsplitter, \xD81\", AOI: 45\xB0"
+  Description: Beam splitter
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=EBP1
+  Unit price estimate ($): 40.0
+  Quantity: 1.0
+  Assembly location: Beam splitter
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: "1.00\u201D X 1.00\u201D T-Slotted Profile - Two Adjacent Open T-Slots (Part\
+    \ No. 1002-S-Black-FB)"
+  Description: Long frame rails
+  Source: https://8020.net/1002-s-black-fb.html
+  Unit price estimate ($): 38.0
+  Quantity: .nan
+  Assembly location: Box
+  Vendor: 80/20
+  Notes: "2 x 22\u201D sections"
+- Name: "1.00\u201D X 1.00\u201D T-Slotted Profile - Two Adjacent Open T-Slots (Part\
+    \ No. 1002-S-Black-FB)"
+  Description: Medium frame rails
+  Source: https://8020.net/1002-s-black-fb.html
+  Unit price estimate ($): 18.0
+  Quantity: .nan
+  Assembly location: Box
+  Vendor: 80/20
+  Notes: "2 x 10\u201D sections"
+- Name: "1.00\u201D X 1.00\u201D T-Slotted Profile - Two Adjacent Open T-Slots (Part\
+    \ No. 1002-S-Black-FB)"
+  Description: Short frame rails
+  Source: https://8020.net/1002-s-black-fb.html
+  Unit price estimate ($): 23.0
+  Quantity: .nan
+  Assembly location: Box
+  Vendor: 80/20
+  Notes: "4 x 6.5\u201D sections"
+- Name: 1/4-20 x 1.000" Low Head Socket Cap Screw (LHSCS) (Part No. 3017)
+  Description: Frame screws
+  Source: https://8020.net/3017.html
+  Unit price estimate ($): 0.78
+  Quantity: 12.0
+  Assembly location: Box
+  Vendor: 80/20
+  Notes: These are 1/4-20 caps screws
+- Name: 10 Series 2 Hole - Gusseted Inside Corner Bracket (Part No. 4132-Black)
+  Description: Corner brackets
+  Source: https://8020.net/4132-black.html
+  Unit price estimate ($): 8.0
+  Quantity: 4.0
+  Assembly location: Box
+  Vendor: 80/20
+  Notes: .nan
+- Name: 10 Series 3 Way - Squared Corner Connector (Part No. 4042-Black)
+  Description: Corner connector
+  Source: https://8020.net/4042-black.html
+  Unit price estimate ($): 34.0
+  Quantity: 4.0
+  Assembly location: Box
+  Vendor: 80/20
+  Notes: .nan
+- Name: MB1224 - Aluminum Breadboard 12" x 24" x 1/2", 1/4"-20 Taps
+  Description: Breadboard
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=MB1224
+  Unit price estimate ($): 305.0
+  Quantity: 1.0
+  Assembly location: Breadboard
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: BMF4 - Breadboard Mounting Feet (Imperial), Set of 4
+  Description: Breadboard feet set
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=BMF4
+  Unit price estimate ($): 30.0
+  Quantity: 1.0
+  Assembly location: Breadboard
+  Vendor: Thorlabs
+  Notes: Set of four
+- Name: Clear Scratch- and UV-Resistant Cast Acrylic Sheets
+  Description: Acrylic sheets
+  Source: https://www.mcmaster.com/8560k192
+  Unit price estimate ($): 21.0
+  Quantity: 4.0
+  Assembly location: Box
+  Vendor: McMaster
+  Notes: "Four sheets of 12\u201D x 24\u201D, thickness 1/8\u201D"
+- Name: Threaded-Hole Round Pull Handle
+  Description: Sheet handles
+  Source: https://www.mcmaster.com/1726A6/
+  Unit price estimate ($): 11.0
+  Quantity: 2.0
+  Assembly location: Box
+  Vendor: McMaster
+  Notes: .nan
+- Name: .nan
+  Description: Screws and washers
+  Source: .nan
+  Unit price estimate ($): .nan
+  Quantity: .nan
+  Assembly location: Tools
+  Vendor: Thorlabs
+  Notes: .nan
+- Name: iM2975 Storm Travel Case with Foam
+  Description: Transportation case
+  Source: https://www.pelican.com/us/en/product/cases/travel-case/storm/im2975/
+  Unit price estimate ($): 406.0
+  Quantity: 1.0
+  Assembly location: Case
+  Vendor: Pelican
+  Notes: Has customizable foam layers inside
+- Name: "PF05-03-P01 - \xD81/2\" Protected Silver Mirror\_"
+  Description: "0.5\u201D flat mirror"
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=PF05-03-P01
+  Unit price estimate ($): 33.0
+  Quantity: 1.0
+  Assembly location: Tools
+  Vendor: Thorlabs
+  Notes: For FPM alignment
+- Name: 'MAP107575-A - 1:1 Matched Achromatic Pair, f1=75.0 mm, f2=75.0 mm, ARC: 400-700
+    nm'
+  Description: Re-imaging lens
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=MAP107575-A
+  Unit price estimate ($): 200.0
+  Quantity: 1.0
+  Assembly location: Tools
+  Vendor: Thorlabs
+  Notes: "Temporarily mounted on a random 0.5\u201D post and 0.5\u201D post holder\
+    \ during alignmen"
