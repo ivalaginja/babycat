@@ -7,6 +7,19 @@ sidebar:
   nav: "parts"
 ---
 
+This page lists all the parts required to build the portable coronagraph. The list is divided into several categories
+listed in the navigation bar on the left.
+
+To build a fully functional coronagraph bench, you will need all components from the two sections
+[Optical Components](#optical-components) and [Screws and tools](#screws-and-tools). Note how for the screws, you could
+assemble them individually, but screw kits are also listed as a more convenient option. This does not include any devices
+that can actually connect to the cameras and display their images. Since many teams are able to use some laptops they
+already have, we just include the [Laptops](#laptops) section as a reminder.
+
+The [Frame box](#frame-box) and [Transportation case](#transportation-case) sections are optional. The former lists the
+parts required to build a solid frame with acrylic sheets for protection, the latter lists solid transportation case
+that allows you to take your baby coronagraph on adventures.
+
 ## Optical Components
 
 <table>
@@ -39,6 +52,16 @@ sidebar:
 </table>
 
 ## Screws and tools
+
+The below table lists the screws and washers necessary for the full optical setup, exclusive all the screws that are
+already included in some of the parts in [Optical Components](#optical-components), like for example the 8-32 set screws
+that come with the 1/2" posts.
+
+However, it is not unlikely that you either have enough of these standard screws already lying around or that you can
+scavange them from colleagues or your lab. If not, we also list the respective screw kits you could buy, below.
+
+Adapter screws for the magnetic mounts are not included in any of the listed screw kits. You will need to acquire these
+separately.
 
 ### Screws and washers
 
@@ -75,7 +98,7 @@ sidebar:
     </tbody>
 </table>
 
-Might be easier to just get the screw kits:
+If you prefer to get the full screw kits (remember that they do not include the adapter screws for the magnetic mounts):
 
 <table>
     <thead>
@@ -109,6 +132,9 @@ Might be easier to just get the screw kits:
 </table>
 
 ### Tools
+
+The tools listed below are required for the assembly of the coronagraph. You might already have some of these tools, so
+this list is just provided for convenience.
 
 <table>
     <thead>
@@ -150,6 +176,10 @@ consider using two laptops.
 
 ## Frame box
 
+The frame box is an optional protection around the assembled coronagraph. It is made of aluminum frames and acrylic
+sheets that can be assembled and disassembled. The frame box is designed to protect the coronagraph during transport and
+also during outreach and teaching activities.
+
 <table>
     <thead>
         <tr>
@@ -180,6 +210,9 @@ consider using two laptops.
 </table>
 
 ## Transportation case
+
+This case is large enough to fit the coronagraph including the frame, spare parts and laptops. The foam is pre-scored
+into small cubes, so you could make the indentations in the foam whatever sizes they needed to be.
 
 <table>
     <thead>
