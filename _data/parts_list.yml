@@ -47,14 +47,6 @@
   Assembly location: FPM
   Vendor: Thorlabs
   Notes: .nan
-- Name: .nan
-  Description: ND filter
-  Source: .nan
-  Unit price estimate ($): .nan
-  Quantity: 1.0
-  Assembly location: ND filter
-  Vendor: .nan
-  Notes: Optional
 - Name: "CG15XH1 - Precision Cover Glasses, #1.5H Thickness, \xD825 mm, Pack of 100"
   Description: Glasses for WFE
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CG15XH1
@@ -91,8 +83,8 @@
   Description: "1\u201Dx1\u201D magnetic mounts"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=KB1X1
   Unit price estimate ($): 80.0
-  Quantity: 4.0
-  Assembly location: FPM, LS, ND filter, WFE
+  Quantity: 3.0
+  Assembly location: FPM, LS, WFE
   Vendor: Thorlabs
   Notes: .nan
 - Name: 'KBT1X1 - Top Plate Only of the KB1X1 Kinematic Base, #8 Counterbore'
@@ -158,18 +150,18 @@
   Description: "0.5\u201D post holders (black)"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=UPH2#ad-image-0
   Unit price estimate ($): 35.0
-  Quantity: 11.0
+  Quantity: 10.0
   Assembly location: Aperture, Beam splitter, LS, Laser, Mirror 1, Mirror 3, Mirror2,
-    ND filter, Tools, WFE
+    Tools, WFE
   Vendor: Thorlabs
   Notes: One is for the flat mirror
 - Name: "TR2 - \xD81/2\" Optical Post, SS, 8-32 Setscrew, 1/4\"-20 Tap, L = 2\u201D"
   Description: "0.5\u201D posts"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=TR2
   Unit price estimate ($): 6.0
-  Quantity: 11.0
+  Quantity: 10.0
   Assembly location: Aperture, Beam splitter, LS, Laser, Mirror 1, Mirror 3, Mirror2,
-    ND filter, Tools, WFE
+    Tools, WFE
   Vendor: Thorlabs
   Notes: One is for the flat mirror
 - Name: ZWO ASI120MC
