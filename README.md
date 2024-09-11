@@ -1,11 +1,9 @@
-# babycat
-Website for the coronagraph demo bench "BabyCAT.
+# BabyCAT
+Website for the coronagraph demo bench "BabyCAT".
 
-## Website Built with Jekyll
+The BabyCAT website is built using the Jekyll framework. Jekyll is a static site generator that allows for easy creation and management of websites.
 
-The BabyCAT website is built using the Jekyll framework. Jekyll is a static site generator that allows for easy creation and management of websites. The website follows a modern design with a focus on clarity and usability.
-
-## Running the Website Locally
+## Local setup for development
 
 To run the BabyCAT website locally, follow these steps:
 
@@ -24,6 +22,7 @@ To run the BabyCAT website locally, follow these steps:
    ```sh
    bundle install
    ```
+## Running the Website Locally
 
 4. **Build the site and make it available on a local server**:
    ```sh
