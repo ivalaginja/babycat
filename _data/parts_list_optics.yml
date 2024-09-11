@@ -212,57 +212,6 @@
   Assembly location: Beam splitter
   Vendor: Thorlabs
   Notes: .nan
-- Name: "1.00\u201D X 1.00\u201D T-Slotted Profile - Two Adjacent Open T-Slots (Part\
-    \ No. 1002-S-Black-FB)"
-  Description: Long frame rails
-  Source: https://8020.net/1002-s-black-fb.html
-  Unit price estimate ($): 38.0
-  Quantity: .nan
-  Assembly location: Box
-  Vendor: 80/20
-  Notes: "2 x 22\u201D sections"
-- Name: "1.00\u201D X 1.00\u201D T-Slotted Profile - Two Adjacent Open T-Slots (Part\
-    \ No. 1002-S-Black-FB)"
-  Description: Medium frame rails
-  Source: https://8020.net/1002-s-black-fb.html
-  Unit price estimate ($): 18.0
-  Quantity: .nan
-  Assembly location: Box
-  Vendor: 80/20
-  Notes: "2 x 10\u201D sections"
-- Name: "1.00\u201D X 1.00\u201D T-Slotted Profile - Two Adjacent Open T-Slots (Part\
-    \ No. 1002-S-Black-FB)"
-  Description: Short frame rails
-  Source: https://8020.net/1002-s-black-fb.html
-  Unit price estimate ($): 23.0
-  Quantity: .nan
-  Assembly location: Box
-  Vendor: 80/20
-  Notes: "4 x 6.5\u201D sections"
-- Name: 1/4-20 x 1.000" Low Head Socket Cap Screw (LHSCS) (Part No. 3017)
-  Description: Frame screws
-  Source: https://8020.net/3017.html
-  Unit price estimate ($): 0.78
-  Quantity: 12.0
-  Assembly location: Box
-  Vendor: 80/20
-  Notes: These are 1/4-20 caps screws
-- Name: 10 Series 2 Hole - Gusseted Inside Corner Bracket (Part No. 4132-Black)
-  Description: Corner brackets
-  Source: https://8020.net/4132-black.html
-  Unit price estimate ($): 8.0
-  Quantity: 4.0
-  Assembly location: Box
-  Vendor: 80/20
-  Notes: .nan
-- Name: 10 Series 3 Way - Squared Corner Connector (Part No. 4042-Black)
-  Description: Corner connector
-  Source: https://8020.net/4042-black.html
-  Unit price estimate ($): 34.0
-  Quantity: 4.0
-  Assembly location: Box
-  Vendor: 80/20
-  Notes: .nan
 - Name: MB1224 - Aluminum Breadboard 12" x 24" x 1/2", 1/4"-20 Taps
   Description: Breadboard
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=MB1224
@@ -279,22 +228,6 @@
   Assembly location: Breadboard
   Vendor: Thorlabs
   Notes: Set of four
-- Name: Clear Scratch- and UV-Resistant Cast Acrylic Sheets
-  Description: Acrylic sheets
-  Source: https://www.mcmaster.com/8560k192
-  Unit price estimate ($): 21.0
-  Quantity: 4.0
-  Assembly location: Box
-  Vendor: McMaster
-  Notes: "Four sheets of 12\u201D x 24\u201D, thickness 1/8\u201D"
-- Name: Threaded-Hole Round Pull Handle
-  Description: Sheet handles
-  Source: https://www.mcmaster.com/1726A6/
-  Unit price estimate ($): 11.0
-  Quantity: 2.0
-  Assembly location: Box
-  Vendor: McMaster
-  Notes: .nan
 - Name: .nan
   Description: Screws and washers
   Source: .nan
@@ -303,14 +236,6 @@
   Assembly location: Tools
   Vendor: Thorlabs
   Notes: .nan
-- Name: iM2975 Storm Travel Case with Foam
-  Description: Transportation case
-  Source: https://www.pelican.com/us/en/product/cases/travel-case/storm/im2975/
-  Unit price estimate ($): 406.0
-  Quantity: 1.0
-  Assembly location: Case
-  Vendor: Pelican
-  Notes: Has customizable foam layers inside
 - Name: "PF05-03-P01 - \xD81/2\" Protected Silver Mirror\_"
   Description: "0.5\u201D flat mirror"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=PF05-03-P01
