@@ -2,6 +2,8 @@
 title: About
 layout: single
 permalink: /about/
+sidebar:
+  nav: "about"
 ---
 
 ## Purpose of the Project

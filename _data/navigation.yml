@@ -3,3 +3,17 @@ main:
     url: /parts-list/
   - title: "About"
     url: /about/
+
+about:
+  - title: "Purpose of the Project"
+    url: /about/#purpose-of-the-project
+  - title: "Background"
+    url: /about/#background
+  - title: "Educational Goals"
+    url: /about/#educational-goals
+  - title: "Where This Setup Is Used"
+    url: /about/#where-this-setup-is-used
+  - title: "Resources"
+    url: /about/#resources
+  - title: "Team"
+    url: /about/#team
