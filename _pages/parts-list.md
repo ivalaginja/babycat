@@ -139,7 +139,7 @@ this list is just provided for convenience.
 <table>
     <thead>
         <tr>
-            <th>Name</th>
+            <th>Description</th>
             <th>Unit Price Estimate</th>
             <th>Comment</th>
             <th>URL</th>
