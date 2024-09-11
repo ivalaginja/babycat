@@ -3,3 +3,29 @@ main:
     url: /parts-list/
   - title: "About"
     url: /about/
+
+about:
+  - title: "Purpose of the Project"
+    url: /about/#purpose-of-the-project
+  - title: "Background"
+    url: /about/#background
+  - title: "Educational Goals"
+    url: /about/#educational-goals
+  - title: "Where This Setup Is Used"
+    url: /about/#where-this-setup-is-used
+  - title: "Resources"
+    url: /about/#resources
+  - title: "Team"
+    url: /about/#team
+
+parts:
+  - title: "Optical Components"
+    url: /parts-list/#optical-components
+  - title: "Screws and tools"
+    url: /parts-list/#screws-and-tools
+  - title: "Laptops"
+    url: /parts-list/#laptops
+  - title: "Frame box"
+    url: /parts-list/#frame-box
+  - title: "Transportation case"
+    url: /parts-list/#transportation-case
