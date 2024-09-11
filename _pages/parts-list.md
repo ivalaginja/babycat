@@ -1,8 +1,7 @@
 ---
 title: Parts List
-layout: single
+layout: splash
 permalink: /parts-list/
-class: wide
 ---
 
 <table>
