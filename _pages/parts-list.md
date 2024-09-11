@@ -2,7 +2,11 @@
 title: Parts List
 layout: splash
 permalink: /parts-list/
+sidebar:
+  nav: "parts"
 ---
+
+## Optical Components
 
 <table>
     <thead>
@@ -33,5 +37,9 @@ permalink: /parts-list/
     </tbody>
 </table>
 
+## Screws and tools
 
+## Frame box
+
+## Transportation case
 

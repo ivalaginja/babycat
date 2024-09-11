@@ -17,3 +17,13 @@ about:
     url: /about/#resources
   - title: "Team"
     url: /about/#team
+
+parts:
+  - title: "Optical Components"
+    url: /parts-list/#optical-components
+  - title: "Screws and tools"
+    url: /parts-list/#screws-and-tools
+  - title: "Frame box"
+    url: /parts-list/#frame-box
+  - title: "Transportation case"
+    url: /parts-list/#transportation-case
