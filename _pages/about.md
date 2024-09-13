@@ -24,10 +24,14 @@ and research settings. Most of the documentation and educational materials were 
 ([Space Astronomy Summer Program](https://www.stsci.edu/opportunities/space-astronomy-summer-program)) intern Lucas Batista,
 who worked with the RMOL team and STScI's Office of Public Outreach (OPO) during the summer of 2019.
 
+Why "BabyCAT"? The workhorse project of the RMOL team is the HiCAT testbed - the "High-contrast imager for Complex
+Aperture Telescopes" testbed. Since the demo coronagraph was supposed to illustrate a mini version of HiCAT, the name
+"BabyCAT" seemed immediately evident.
+
 ## Educational Goals
 
 The BabyCAT project is intended to serve as an educational tool, providing hands-on experience with coronagraphy. It is
-inspired by the need for affordable and easy-to-build optical setups that can be used in classrooms, labs, and transported
+inspired by the need for easy-to-build optical setups that can be used in classrooms, labs, and transported
 easily to conferences and outreach events.
 
 Learners will be able to see how a classic Lyot Coronagraph works, and understand how we can use that to find exoplanets
@@ -35,7 +39,7 @@ and other astronomical objects.
 
 ## Where This Setup Is Used
 
-The following institutions and groups have built their own version of BabyCAT:
+The following institutions and groups own their own version of BabyCAT:
 
 - **Institution Name**: RMOL at STScI
   - **Location**: Baltimore (MD), USA
@@ -51,7 +55,7 @@ The following institutions and groups have built their own version of BabyCAT:
 
 ## Resources
 
-- SASP student presentation by Luca's Batista: [Recording](https://cloudproject.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bb1e9b5-8229-426e-a6fc-aaa400fe927a) - starting at 31:18
+- SASP student presentation by Lucas Batista: [Recording](https://cloudproject.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bb1e9b5-8229-426e-a6fc-aaa400fe927a) - starting at 31:18
 - Batista et al. (2020): [BAAS, Vol. 52, No. 1](https://ui.adsabs.harvard.edu/abs/2020AAS...23520313B/abstract)
 
 ## Team
@@ -59,4 +63,5 @@ The following institutions and groups have built their own version of BabyCAT:
 - **Website**: [Iva Laginja](https://ivalaginja.github.io/)
 - **Optical design**: Rémi Soummer and Greg Brady
 - **Diagrams and education materials**: Lucas Batista
-- **Parts list**: Greg Brady, Evelyn McChesney, Jules Fowler, Iva Laginja
+- **Parts list**: Greg Brady, Evelyn McChesney, Jules Fowler, Iva Laginja, Maggie Kautz, Pete Petrone
+- **Documentation**: Greg Brady, Rémi Soummer, Iva Laginja, Jules Fowler, Scott Will, Maggie Kautz, Lucas Batista
