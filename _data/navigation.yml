@@ -1,6 +1,8 @@
 main:
   - title: "Parts List"
     url: /parts-list/
+  - title: "Assembly"
+    url: /assembly/
   - title: "About"
     url: /about/
 
@@ -29,3 +31,13 @@ parts:
     url: /parts-list/#frame-box
   - title: "Transportation case"
     url: /parts-list/#transportation-case
+
+assembly:
+  - title: "Unfolded Optical Layout"
+    url: /assembly/#unfolded-optical-layout
+  - title: "Mechanical Schematic"
+    url: /assembly/#mechanical-schematic
+  - title: "Assembly Outline"
+    url: /assembly/#assembly-outline
+  - title: "Realignment"
+    url: /assembly/#realignment
