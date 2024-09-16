@@ -1,6 +1,7 @@
 ---
 title: About
 layout: single
+classes: wide
 permalink: /about/
 sidebar:
   nav: "about"
@@ -24,7 +25,8 @@ and research settings. Most of the documentation and educational materials were 
 ([Space Astronomy Summer Program](https://www.stsci.edu/opportunities/space-astronomy-summer-program)) intern Lucas Batista,
 who worked with the RMOL team and STScI's Office of Public Outreach (OPO) during the summer of 2019.
 
-Why "BabyCAT"? The workhorse project of the RMOL team is the HiCAT testbed - the "High-contrast imager for Complex
+{: .notice--info}
+**The name:** Why "BabyCAT"? The workhorse project of the RMOL team is the HiCAT testbed - the "High-contrast imager for Complex
 Aperture Telescopes" testbed. Since the demo coronagraph was supposed to illustrate a mini version of HiCAT, the name
 "BabyCAT" seemed immediately evident.
 
@@ -57,6 +59,10 @@ The following institutions and groups own their own version of BabyCAT:
 
 - SASP student presentation by Lucas Batista: [Recording](https://cloudproject.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bb1e9b5-8229-426e-a6fc-aaa400fe927a) - starting at 31:18
 - Batista et al. (2020): [BAAS, Vol. 52, No. 1](https://ui.adsabs.harvard.edu/abs/2020AAS...23520313B/abstract)
+- RMOL publication list: [ADS library](https://ui.adsabs.harvard.edu/public-libraries/0jrikEsaQ6W3ubvGa3ZivA)
+- RMOL website: [RMOL](https://www.stsci.edu/stsci-research/research-topics-and-programs/russell-b-makidon-optics-laboratory)
+- STScI website: [STScI](https://www.stsci.edu/)
+- Habitable Worlds Observatory: [HWO](https://habitableworldsobservatory.org/home)
 
 ## Team
 

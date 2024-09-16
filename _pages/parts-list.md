@@ -17,7 +17,7 @@ that can actually connect to the cameras and display their images. Since many te
 already have, we just include the [Laptops](#laptops) section as a reminder.
 
 The [Frame box](#frame-box) and [Transportation case](#transportation-case) sections are optional. The former lists the
-parts required to build a solid frame with acrylic sheets for protection, the latter lists solid transportation case
+parts required to build a solid frame with acrylic sheets for protection, the latter lists a sturdy transportation case
 that allows you to take your baby coronagraph on adventures.
 
 ## Optical Components
@@ -60,8 +60,9 @@ that come with the 1/2" posts.
 However, it is not unlikely that you either have enough of these standard screws already lying around or that you can
 scavange them from colleagues or your lab. If not, we also list the respective screw kits you could buy, below.
 
-Adapter screws for the magnetic mounts are not included in any of the listed screw kits. You will need to acquire these
-separately.
+{: .notice--warning}
+**Adapter screws** for the magnetic mounts are not included in any of the listed screw kits. You will still need to
+acquire these separately.
 
 ### Screws and washers
 
