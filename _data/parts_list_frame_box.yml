@@ -40,7 +40,7 @@
   Quantity: 4.0
   Assembly location: Box
   Vendor: 80/20
-  Notes: .nan
+  Notes:
 - Name: 10 Series 3 Way - Squared Corner Connector (Part No. 4042-Black)
   Description: Corner connector
   Source: https://8020.net/4042-black.html
@@ -48,7 +48,7 @@
   Quantity: 4.0
   Assembly location: Box
   Vendor: 80/20
-  Notes: .nan
+  Notes:
 - Name: Clear Scratch- and UV-Resistant Cast Acrylic Sheets
   Description: Acrylic sheets
   Source: https://www.mcmaster.com/8560k192
@@ -64,4 +64,4 @@
   Quantity: 2.0
   Assembly location: Box
   Vendor: McMaster
-  Notes: .nan
+  Notes:
