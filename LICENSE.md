@@ -5,7 +5,7 @@ and the underlying source code used to format and display that content is licens
 
 The **content** of this project itself is licensed under the [Creative Commons Attribution-Noncommercial 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/deed.en).
 
-### The MIT License (MIT)
+### The MIT License
 
 The **website itself** is licensed under the MIT license.
 
