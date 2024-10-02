@@ -7,6 +7,8 @@ main:
     url: /about/
 
 about:
+  - title: "What is a coronagraph?"
+    url: /about/#what-is-a-coronagraph
   - title: "Purpose of the Project"
     url: /about/#purpose-of-the-project
   - title: "Background"

@@ -7,11 +7,27 @@ sidebar:
   nav: "about"
 ---
 
+## What is a coronagraph?
+
+A coronagraph is an optical instrument used in astronomical observations. It blocks the light from a star in order to
+observe the faint objects around it. This can be used to find exoplanets, study the star's environment, and observe
+circumstellar disks.
+
+A coronagraph consists of various masks that, when used in combination, attenuate the starlight while allowing the faint
+planet light to shine through. There are many different types of coronagraphs, as the optical masks can be located in
+different optical planes (pupil planes and focal planes) and act on either component of the electrical field (amplitude or phase).
+
+The original Lyot coronagraph is a simple design that uses a pair of masks to block the starlight. The
+focal-plane mask (FPM) is an opaque, sharp-edge disk in the focal plane placed over the core of the stellar point-spread
+function (PSF). The Lyot stop (LS) is an annular mask in the pupil plane that blocks the light diffracted by the FPM.
+
+For more information on coronagraphy, see the [references](#resources) below.
+
 ## Purpose of the Project
 
-The BabyCAT project aims to provide a comprehensive and accessible coronagraph demonstration testbed. It is designed to
-help students, researchers, and enthusiasts learn about coronagraphy, build their own setups, and experiment with
-different configurations.
+The BabyCAT project is a demonstration bench that uses a Lyot coronagraph to show how coronagraphy works. It is
+designed to help students, researchers, and enthusiasts learn about coronagraphy, build their own setups, and experiment
+with different configurations.
 
 ## Background
 
@@ -56,6 +72,10 @@ The following institutions and groups own their own version of BabyCAT:
   - **Demo name**: sealPUP
 
 ## Resources
+
+- How a coronagraph works, combined with wavefront correction: [Video](https://www.youtube.com/watch?v=zkTHuqiH_1Y)
+- Introduction to optics, Iva Laginja at the Sagan Summer Workshop 2024: [Video](https://www.youtube.com/watch?v=vq6YOuWVIuk)
+- Introduction to coronagraphy, David Doelman at the Sagan Summer Workshop 2024: [Video](https://www.youtube.com/watch?v=SYHAL5hxEbQ)
 
 - SASP student presentation by Lucas Batista: [Recording](https://cloudproject.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bb1e9b5-8229-426e-a6fc-aaa400fe927a) - starting at 31:18
 - Batista et al. (2020): [BAAS, Vol. 52, No. 1](https://ui.adsabs.harvard.edu/abs/2020AAS...23520313B/abstract)
