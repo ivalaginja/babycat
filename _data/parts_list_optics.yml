@@ -75,8 +75,8 @@
   Description: "1\u201D lens mount"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1#ad-image-0
   Unit price estimate ($): 16.0
-  Quantity: 2.0
-  Assembly location: Aperture, Beam splitter
+  Quantity: 3.0
+  Assembly location: Aperture, Beam splitter, Laser
   Vendor: Thorlabs
   Notes:
 - Name: 'KB1X1 - Complete 1" x 1" Kinematic Base, Top and Bottom Plates, #8 Counterbores'
