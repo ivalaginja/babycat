@@ -1,7 +1,7 @@
-- Name: .nan
+- Name:
   Description: Aperture mask
   Source: https://lenoxlaser.com/contact/
-  Unit price estimate ($): .nan
+  Unit price estimate ($): ~500
   Quantity: 1.0
   Assembly location: Aperture
   Vendor: Lenox Laser
@@ -18,7 +18,7 @@
 - Name: Pinhole Mirror
   Description: Focal-plane mask
   Source: https://lenoxlaser.com/shop/optical-apertures/standard-apertures/pinhole-mirrors/
-  Unit price estimate ($): 552.5
+  Unit price estimate ($): ~500
   Quantity: 1.0
   Assembly location: FPM
   Vendor: Lenox Laser
@@ -166,7 +166,7 @@
   Notes: One is for the flat mirror
 - Name: ZWO ASI120MC
   Description: Focal-plane and pupil-plane cameras
-  Source: .nan
+  Source:
   Unit price estimate ($): 150.0
   Quantity: 2.0
   Assembly location: Cameras
@@ -228,14 +228,6 @@
   Assembly location: Breadboard
   Vendor: Thorlabs
   Notes: Set of four
-- Name: .nan
-  Description: Screws and washers
-  Source: .nan
-  Unit price estimate ($): .nan
-  Quantity: .nan
-  Assembly location: Tools
-  Vendor: Thorlabs
-  Notes:
 - Name: "PF05-03-P01 - \xD81/2\" Protected Silver Mirror\_"
   Description: "0.5\u201D flat mirror"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=PF05-03-P01
