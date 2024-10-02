@@ -3,7 +3,7 @@ and the underlying source code used to format and display that content is licens
 
 ### The MIT License (MIT)
 
-Copyright (c) 2013-2024 Michael Rose and contributors
+Copyright (c) 2013-2024 Michael Rose and contributors  
 Copyright (c) 2024 Iva Laginja for adaptation to the BabyCAT project
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
