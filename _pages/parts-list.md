@@ -16,6 +16,10 @@ assemble them individually, but screw kits are also listed as a more convenient 
 that can actually connect to the cameras and display their images. Since many teams are able to use some laptops they
 already have, we just include the [Laptops](#laptops) section as a reminder.
 
+{: .notice--warning}
+Note that we give all measurements and link to components in **imperial units**. If you want to use metric units, you
+will have to make sure to convert all measurements and find the respective components.
+
 The [Frame box](#frame-box) and [Transportation case](#transportation-case) sections are optional. The former lists the
 parts required to build a solid frame with acrylic sheets for protection, the latter lists a sturdy transportation case
 that allows you to take your baby coronagraph on adventures.
@@ -27,7 +31,7 @@ that allows you to take your baby coronagraph on adventures.
         <tr>
             <th>Description</th>
             <th>Quantity</th>
-            <th>Price Estimate</th>
+            <th>Unit price Estimate</th>
             <th>Source</th>
             <th>Vendor</th>
             <th>Component Name</th>
@@ -83,16 +87,14 @@ acquire these separately.
         <tr>
             <td>{{ item.Description }}</td>
             <td>{{ item["Min. quantity"] }}</td>
-            <td>${{ item["Unit price estimate ($)"] | default: "N/A" }}</td>
+            <td>${{ item["Unit price estimate ($)"] }}</td>
             <td>{{ item.Comment }}</td>
             <td>
                 {% if item.URL %}
                     <a href="{{ item.URL }}" target="_blank">{{ item.URL }}</a>
-                {% else %}
-                    N/A
                 {% endif %}
             </td>
-            <td>{{ item["Full name"] | default: "N/A" }}</td>
+            <td>{{ item["Full name"] }}</td>
             <td>{{ item["Used for"] | newline_to_br }}</td>
         </tr>
         {% endfor %}
@@ -119,13 +121,7 @@ If you prefer to get the full screw kits (remember that they do not include the 
             <td>{{ item.Quantity }}</td>
             <td>${{ item["Unit price estimate ($)"] | default: "N/A" }}</td>
             <td>{{ item.Comment }}</td>
-            <td>
-                {% if item.URL %}
-                    <a href="{{ item.URL }}" target="_blank">{{ item.URL }}</a>
-                {% else %}
-                    N/A
-                {% endif %}
-            </td>
+            <td><a href="{{ item.URL }}" target="_blank">{{ item.URL }}</a></td>
             <td>{{ item["Full name"] | default: "N/A" }}</td>
         </tr>
         {% endfor %}
@@ -152,16 +148,10 @@ this list is just provided for convenience.
         {% for item in site.data.parts_list_tools %}
         <tr>
             <td>{{ item.Name }}</td>
-            <td>${{ item["Unit price estimate ($)"] | default: "N/A" }}</td>
-            <td>{{ item.Comment | default: "N/A" }}</td>
-            <td>
-                {% if item.URL %}
-                    <a href="{{ item.URL }}" target="_blank">{{ item.URL }}</a>
-                {% else %}
-                    N/A
-                {% endif %}
-            </td>
-            <td>{{ item["Full name"] | default: "N/A" }}</td>
+            <td>${{ item["Unit price estimate ($)"]  }}</td>
+            <td>{{ item.Comment }}</td>
+            <td> <a href="{{ item.URL }}" target="_blank">{{ item.URL }}</a></td>
+            <td>{{ item["Full name"] }}</td>
             <td>{{ item["Used for"] | newline_to_br }}</td>
         </tr>
         {% endfor %}
