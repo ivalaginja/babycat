@@ -23,9 +23,9 @@ feature_row:
     url: /about/#resources
     btn_label: "See references"
     btn_class: "btn--primary"
-  - title: "Credit"
+  - title: "Attribution"
     excerpt: "Learn how to give us credit if you decide to use our materials to build your own BabyCAT."
-    url: "#test-link"
+    url: /about/#license-and-attribution
     btn_label: "Give credit"
     btn_class: "btn--primary"
 ---

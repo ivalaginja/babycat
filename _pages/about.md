@@ -86,3 +86,21 @@ The following institutions and groups own their own version of BabyCAT:
 - **Alignments, star and planet simulator**: Greg Brady, Pete Petrone, Evelyn McChesney
 - **Educational and outreach materials**: Lucas Batista, Timothy Rhue, Alexandra Lockwood
 - **Documentation and parts lists**: Greg Brady, Iva Laginja, Jules Fowler, Scott Will, Maggie Kautz, Lucas Batista
+
+
+## License and Attribution
+
+The content of this project itself is licensed under the [Creative Commons Attribution-Noncommercial 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/deed.en),
+and the underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/ivalaginja/babycat/blob/main/LICENSE.md).
+
+If you decide to build your own BabyCAT, we would appreciate it if you could let us know! If you can, please open a new
+pull request on our [repo](https://github.com/ivalaginja/babycat) and add your setup to the [About page](https://github.com/ivalaginja/babycat/blob/103fcb7ee5d4079e2fa5718537a93478276de5b8/_pages/about.md?plain=1#L53).
+Alternatively, you can open an issue or email us (see [Team](#team)) and we will do this for you. We can also
+include some of your pictures in our [gallery](#gallery) if you would like!
+
+{: .notice--info}
+
+If you are presenting a demo coronagraph built after our base design, please give us credit by including the website URL
+on presentation slides and materials. If you are preparing a publication that uses references, please cite the website with:
+
+[include citation here, DOI coming soon]
