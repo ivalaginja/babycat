@@ -25,9 +25,10 @@ For more information on coronagraphy, see the [references](#resources) below.
 
 ## Purpose of the Project
 
-The BabyCAT project is a demonstration bench that uses a Lyot coronagraph to show how coronagraphy works. It is
-designed to help students, researchers, and enthusiasts learn about coronagraphy, build their own setups, and experiment
-with different configurations.
+The BabyCAT project is a demonstration bench that uses a Lyot coronagraph to show how coronagraphy works. It provides 
+hands-on experience with coronagraphy and is designed to help students, researchers, and enthusiasts learn about it.
+The setup is inspired by the need for easy-to-build optical setups that can be used in classrooms, labs, and transported
+easily to conferences and outreach events.
 
 ## Background
 
@@ -45,15 +46,6 @@ who worked with the RMOL team and STScI's Office of Public Outreach (OPO) during
 **The name:** Why "BabyCAT"? The workhorse project of the RMOL team is the HiCAT testbed - the "High-contrast imager for Complex
 Aperture Telescopes" testbed. Since the demo coronagraph was supposed to illustrate a mini version of HiCAT, the name
 "BabyCAT" seemed immediately evident.
-
-## Educational Goals
-
-The BabyCAT project is intended to serve as an educational tool, providing hands-on experience with coronagraphy. It is
-inspired by the need for easy-to-build optical setups that can be used in classrooms, labs, and transported
-easily to conferences and outreach events.
-
-Learners will be able to see how a classic Lyot Coronagraph works, and understand how we can use that to find exoplanets
-and other astronomical objects.  
 
 ## Where This Setup Is Used
 
