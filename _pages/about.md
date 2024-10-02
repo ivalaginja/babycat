@@ -7,11 +7,28 @@ sidebar:
   nav: "about"
 ---
 
+## What is a Coronagraph?
+
+A coronagraph is an optical instrument used in astronomical observations. It blocks the light from a star in order to
+observe the faint objects around it. This can be used to find exoplanets, study the star's environment, and observe
+circumstellar disks.
+
+A coronagraph consists of various masks that, when used in combination, attenuate the starlight while allowing the faint
+planet light to shine through. There are many different types of coronagraphs, as the optical masks can be located in
+different optical planes (pupil planes and focal planes) and act on either component of the electrical field (amplitude or phase).
+
+The original Lyot coronagraph is a simple design that uses a pair of masks to block the starlight. The
+focal-plane mask (FPM) is an opaque, sharp-edge disk in the focal plane placed over the core of the stellar point-spread
+function (PSF). The Lyot stop (LS) is an annular mask in the pupil plane that blocks the light diffracted by the FPM.
+
+For more information on coronagraphy, see the [references](#resources) below.
+
 ## Purpose of the Project
 
-The BabyCAT project aims to provide a comprehensive and accessible coronagraph demonstration testbed. It is designed to
-help students, researchers, and enthusiasts learn about coronagraphy, build their own setups, and experiment with
-different configurations.
+The BabyCAT project is a demonstration bench that uses a Lyot coronagraph to show how coronagraphy works. It provides 
+hands-on experience with coronagraphy and is designed to help students, researchers, and enthusiasts learn about it.
+The setup is inspired by the need for easy-to-build optical setups that can be used in classrooms, labs, and transported
+easily to conferences and outreach events.
 
 ## Background
 
@@ -26,18 +43,12 @@ and research settings. Most of the documentation and educational materials were 
 who worked with the RMOL team and STScI's Office of Public Outreach (OPO) during the summer of 2019.
 
 {: .notice--info}
-**The name:** Why "BabyCAT"? The workhorse project of the RMOL team is the HiCAT testbed - the "High-contrast imager for Complex
-Aperture Telescopes" testbed. Since the demo coronagraph was supposed to illustrate a mini version of HiCAT, the name
-"BabyCAT" seemed immediately evident.
+**The name:** Why "BabyCAT"? The workhorse project of the RMOL team is the [HiCAT testbed](https://ui.adsabs.harvard.edu/abs/2024arXiv240912931S/abstract) - the
+"High-contrast imager for Complex Aperture Telescopes" testbed. Since the demo coronagraph was supposed to illustrate a
+mini version of HiCAT, the name "BabyCAT" seemed immediately evident.
 
-## Educational Goals
-
-The BabyCAT project is intended to serve as an educational tool, providing hands-on experience with coronagraphy. It is
-inspired by the need for easy-to-build optical setups that can be used in classrooms, labs, and transported
-easily to conferences and outreach events.
-
-Learners will be able to see how a classic Lyot Coronagraph works, and understand how we can use that to find exoplanets
-and other astronomical objects.  
+The second demo bench, BabyCAT 2.0, was also assembled at the Makidon lab and later delivered to ExEP at JPL. Its
+upgraded design is the one that is presented on this website. 
 
 ## Where This Setup Is Used
 
@@ -57,6 +68,10 @@ The following institutions and groups own their own version of BabyCAT:
 
 ## Resources
 
+- How a coronagraph works, combined with wavefront correction: [Video](https://www.youtube.com/watch?v=zkTHuqiH_1Y)
+- Introduction to optics, Iva Laginja at the Sagan Summer Workshop 2024: [Video](https://www.youtube.com/watch?v=vq6YOuWVIuk)
+- Introduction to coronagraphy, David Doelman at the Sagan Summer Workshop 2024: [Video](https://www.youtube.com/watch?v=SYHAL5hxEbQ)
+
 - SASP student presentation by Lucas Batista: [Recording](https://cloudproject.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bb1e9b5-8229-426e-a6fc-aaa400fe927a) - starting at 31:18
 - Batista et al. (2020): [BAAS, Vol. 52, No. 1](https://ui.adsabs.harvard.edu/abs/2020AAS...23520313B/abstract)
 - RMOL publication list: [ADS library](https://ui.adsabs.harvard.edu/public-libraries/0jrikEsaQ6W3ubvGa3ZivA)
@@ -67,7 +82,7 @@ The following institutions and groups own their own version of BabyCAT:
 ## Team
 
 - **Website**: [Iva Laginja](https://ivalaginja.github.io/)
-- **Optical design**: Rémi Soummer and Greg Brady
-- **Diagrams and education materials**: Lucas Batista
-- **Parts list**: Greg Brady, Evelyn McChesney, Jules Fowler, Iva Laginja, Maggie Kautz, Pete Petrone
-- **Documentation**: Greg Brady, Rémi Soummer, Iva Laginja, Jules Fowler, Scott Will, Maggie Kautz, Lucas Batista
+- **Project lead and optical design**: Rémi Soummer
+- **Alignments, star and planet simulator**: Greg Brady, Pete Petrone, Evelyn McChesney
+- **Educational and outreach materials**: Lucas Batista, Timothy Rhue, Alexandra Lockwood
+- **Documentation and parts lists**: Greg Brady, Iva Laginja, Jules Fowler, Scott Will, Maggie Kautz, Lucas Batista

@@ -7,12 +7,12 @@ main:
     url: /about/
 
 about:
+  - title: "What is a Coronagraph?"
+    url: /about/#what-is-a-coronagraph
   - title: "Purpose of the Project"
     url: /about/#purpose-of-the-project
   - title: "Background"
     url: /about/#background
-  - title: "Educational Goals"
-    url: /about/#educational-goals
   - title: "Where This Setup Is Used"
     url: /about/#where-this-setup-is-used
   - title: "Resources"
@@ -23,13 +23,13 @@ about:
 parts:
   - title: "Optical Components"
     url: /parts-list/#optical-components
-  - title: "Screws and tools"
+  - title: "Screws and Tools"
     url: /parts-list/#screws-and-tools
   - title: "Laptops"
     url: /parts-list/#laptops
-  - title: "Frame box"
+  - title: "Frame Box"
     url: /parts-list/#frame-box
-  - title: "Transportation case"
+  - title: "Transportation Case"
     url: /parts-list/#transportation-case
 
 assembly:
@@ -41,3 +41,5 @@ assembly:
     url: /assembly/#assembly-outline
   - title: "Realignment"
     url: /assembly/#realignment
+  - title: "Assembly Images"
+    url: /assembly/#assembly-images

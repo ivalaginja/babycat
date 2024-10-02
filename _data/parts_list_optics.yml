@@ -1,7 +1,7 @@
-- Name: .nan
+- Name:
   Description: Aperture mask
   Source: https://lenoxlaser.com/contact/
-  Unit price estimate ($): .nan
+  Unit price estimate ($): ~500
   Quantity: 1.0
   Assembly location: Aperture
   Vendor: Lenox Laser
@@ -14,11 +14,11 @@
   Quantity: 1.0
   Assembly location: LS
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: Pinhole Mirror
   Description: Focal-plane mask
   Source: https://lenoxlaser.com/shop/optical-apertures/standard-apertures/pinhole-mirrors/
-  Unit price estimate ($): 552.5
+  Unit price estimate ($): ~500
   Quantity: 1.0
   Assembly location: FPM
   Vendor: Lenox Laser
@@ -30,7 +30,7 @@
   Quantity: 1.0
   Assembly location: FPM
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: SM1L10 - SM1 Lens Tube, 1.00" Thread Depth, One Retaining Ring Included
   Description: FPM protection cap
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L10
@@ -38,7 +38,7 @@
   Quantity: 1.0
   Assembly location: FPM
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: "LMR1S - \xD81\" Lens Mount with Internal and External SM1 Threads, 8-32 Tap"
   Description: "1\u201D lens mount for FPM"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1S
@@ -46,7 +46,7 @@
   Quantity: 1.0
   Assembly location: FPM
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: "CG15XH1 - Precision Cover Glasses, #1.5H Thickness, \xD825 mm, Pack of 100"
   Description: Glasses for WFE
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CG15XH1
@@ -75,10 +75,10 @@
   Description: "1\u201D lens mount"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1#ad-image-0
   Unit price estimate ($): 16.0
-  Quantity: 2.0
-  Assembly location: Aperture, Beam splitter
+  Quantity: 3.0
+  Assembly location: Aperture, Beam splitter, Laser
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: 'KB1X1 - Complete 1" x 1" Kinematic Base, Top and Bottom Plates, #8 Counterbores'
   Description: "1\u201Dx1\u201D magnetic mounts"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=KB1X1
@@ -86,7 +86,7 @@
   Quantity: 3.0
   Assembly location: FPM, LS, WFE
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: 'KBT1X1 - Top Plate Only of the KB1X1 Kinematic Base, #8 Counterbore'
   Description: Magnetic mount top plate
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=KBT1X1
@@ -102,7 +102,7 @@
   Quantity: 3.0
   Assembly location: Breadboard
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: CPS1 - 5 VDC Battery Pack for CPS Laser Diodes, 10 000 mAh
   Description: Laser battery pack
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CPS1
@@ -110,7 +110,7 @@
   Quantity: 1.0
   Assembly location: Laser
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: "CPS532-C2 - Collimated Laser-Diode-Pumped DPSS Laser Module, 532 nm, 0.9\
     \ mW, Round Beam, \xD811 mm Housing"
   Description: Laser diode
@@ -128,7 +128,7 @@
   Quantity: 1.0
   Assembly location: Laser
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: AB90A - Right-Angle Bracket with Counterbored Slots & 1/4"-20 Tapped Holes
   Description: Camera brackets
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=AB90A#ad-image-0
@@ -136,7 +136,7 @@
   Quantity: 2.0
   Assembly location: Cameras
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: "RS2P - \xD81\" Pedestal Pillar Post, 1/4\"-20 Taps, L = 2\""
   Description: "1\u201D post (grey)"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=RS2P
@@ -144,7 +144,7 @@
   Quantity: 2.0
   Assembly location: Cameras
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: "UPH2 - \xD81/2\" Universal Post Holder, Spring Loaded Locking Thumbscrew,\
     \ L = 2\" "
   Description: "0.5\u201D post holders (black)"
@@ -166,7 +166,7 @@
   Notes: One is for the flat mirror
 - Name: ZWO ASI120MC
   Description: Focal-plane and pupil-plane cameras
-  Source: .nan
+  Source:
   Unit price estimate ($): 150.0
   Quantity: 2.0
   Assembly location: Cameras
@@ -179,7 +179,7 @@
   Quantity: 2.0
   Assembly location: Cameras
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: "CM508-200-G01 - \xD82\" Aluminum-Coated Concave Mirror, f = 200.0 mm"
   Description: Mirrors f=200mm
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CM508-200-G01
@@ -187,7 +187,7 @@
   Quantity: 2.0
   Assembly location: Mirror 1, Mirror2
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: "CM508-150-G01 - \xD82\" Aluminum-Coated Concave Mirror, f = 150.0 mm"
   Description: Mirror f=150mm
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CM508-150-G01
@@ -195,7 +195,7 @@
   Quantity: 1.0
   Assembly location: Mirror 3
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: "KM200 - Kinematic Mirror Mount for \xD82\" Optics"
   Description: Kinematic mirror mount
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=KM200#ad-image-0
@@ -203,7 +203,7 @@
   Quantity: 3.0
   Assembly location: Mirror 1, Mirror 3, Mirror2
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: "EBP1 - Economy 30:70 Beamsplitter, \xD81\", AOI: 45\xB0"
   Description: Beam splitter
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=EBP1
@@ -211,7 +211,7 @@
   Quantity: 1.0
   Assembly location: Beam splitter
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: MB1224 - Aluminum Breadboard 12" x 24" x 1/2", 1/4"-20 Taps
   Description: Breadboard
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=MB1224
@@ -219,7 +219,7 @@
   Quantity: 1.0
   Assembly location: Breadboard
   Vendor: Thorlabs
-  Notes: .nan
+  Notes:
 - Name: BMF4 - Breadboard Mounting Feet (Imperial), Set of 4
   Description: Breadboard feet set
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=BMF4
@@ -228,14 +228,6 @@
   Assembly location: Breadboard
   Vendor: Thorlabs
   Notes: Set of four
-- Name: .nan
-  Description: Screws and washers
-  Source: .nan
-  Unit price estimate ($): .nan
-  Quantity: .nan
-  Assembly location: Tools
-  Vendor: Thorlabs
-  Notes: .nan
 - Name: "PF05-03-P01 - \xD81/2\" Protected Silver Mirror\_"
   Description: "0.5\u201D flat mirror"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=PF05-03-P01

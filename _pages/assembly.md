@@ -5,15 +5,27 @@ permalink: /assembly/
 classes: wide
 sidebar:
   nav: "assembly"
-gallery:
-  - url: /assets/images/focal_plane_mask.jpg
-    image_path: /assets/images/focal_plane_mask.jpg
-    alt: "Focal-plane mask"
-    title: "Focal-plane mask"
-  - url: /assets/images/lyot_stop.jpeg
-    image_path: /assets/images/lyot_stop.jpeg
-    alt: "Lyot stop"
-    title: "Lyot stop"
+gallery_assembly_images:
+  - url: /assets/images/BabyCAT1_side_view.jpeg
+    image_path: /assets/images/BabyCAT1_side_view.jpeg
+    alt: "BabyCAT1 side view"
+    title: "BabyCAT1 side view"
+  - url: /assets/images/BabyCAT1_top_view.jpeg
+    image_path: /assets/images/BabyCAT1_top_view.jpeg
+    alt: "BabyCAT1 top view"
+    title: "BabyCAT1 top view"
+  - url: /assets/images/BabyCAT2_back_view_lasers.jpeg
+    image_path: /assets/images/BabyCAT2_back_view_lasers.jpeg
+    alt: "BabyCAT2 back view lasers"
+    title: "BabyCAT2 back view with lasers"
+  - url: /assets/images/BabyCAT2_front_view_cameras.jpeg
+    image_path: /assets/images/BabyCAT2_front_view_cameras.jpeg
+    alt: "BabyCAT2 front view cameras"
+    title: "BabyCAT2 front view with cameras"
+  - url: /assets/images/BabyCAT2_top_view_short_side.jpeg
+    image_path: /assets/images/BabyCAT2_top_view_short_side.jpeg
+    alt: "BabyCAT2 top view short side"
+    title: "BabyCAT2 top view short side"
 ---
 ## Unfolded Optical Layout
 
@@ -91,3 +103,16 @@ spherical mirror and final imaging optic.
 3. The camera can be brought to focus by finding the plane in which the PSF is best-focused (which will be conjugate to the best focus of the FPM.)
 4. Adjust the FPM position to maintain centering and bring the edges into focus.
 5. Re-align the imaging backend (may take ~ 1 hour).
+
+## Assembly images
+
+Below you can find a couple of images of the assembled BabyCAT and BabyCAT2 benches. The assembly with a grey frame is
+BabyCAT, and the assembly with a black frame is the evolved BabyCAT2, on which the parts list on this website is based on.
+
+Keep in mind that the assembly images are for reference only and may not be the most up-to-date version of the benches.
+For example, the images of BabyCAT show the green laser listed in the parts list, while the images of BabyCAT2 show a
+custom-built laser.
+
+We also note that in the images of BabyCAT2, the FPM and LS have been removed from their magnetic mounts. 
+
+{% include gallery id="gallery_assembly_images" caption="Images of the assembled BabyCAT and BabyCAT2 benches." %}

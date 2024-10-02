@@ -16,6 +16,10 @@ assemble them individually, but screw kits are also listed as a more convenient 
 that can actually connect to the cameras and display their images. Since many teams are able to use some laptops they
 already have, we just include the [Laptops](#laptops) section as a reminder.
 
+{: .notice--warning}
+Note that we give all measurements and link to components in **imperial units**. If you want to use metric units, you
+will have to make sure to convert all measurements and find the respective components.
+
 The [Frame box](#frame-box) and [Transportation case](#transportation-case) sections are optional. The former lists the
 parts required to build a solid frame with acrylic sheets for protection, the latter lists a sturdy transportation case
 that allows you to take your baby coronagraph on adventures.
@@ -27,7 +31,7 @@ that allows you to take your baby coronagraph on adventures.
         <tr>
             <th>Description</th>
             <th>Quantity</th>
-            <th>Price Estimate</th>
+            <th>Unit price Estimate</th>
             <th>Source</th>
             <th>Vendor</th>
             <th>Component Name</th>
@@ -51,7 +55,7 @@ that allows you to take your baby coronagraph on adventures.
     </tbody>
 </table>
 
-## Screws and tools
+## Screws and Tools
 
 The below table lists the screws and washers necessary for the full optical setup, exclusive all the screws that are
 already included in some of the parts in [Optical Components](#optical-components), like for example the 8-32 set screws
@@ -64,7 +68,7 @@ scavange them from colleagues or your lab. If not, we also list the respective s
 **Adapter screws** for the magnetic mounts are not included in any of the listed screw kits. You will still need to
 acquire these separately.
 
-### Screws and washers
+### Screws and Washers
 
 <table>
     <thead>
@@ -83,16 +87,14 @@ acquire these separately.
         <tr>
             <td>{{ item.Description }}</td>
             <td>{{ item["Min. quantity"] }}</td>
-            <td>${{ item["Unit price estimate ($)"] | default: "N/A" }}</td>
+            <td>${{ item["Unit price estimate ($)"] }}</td>
             <td>{{ item.Comment }}</td>
             <td>
                 {% if item.URL %}
                     <a href="{{ item.URL }}" target="_blank">{{ item.URL }}</a>
-                {% else %}
-                    N/A
                 {% endif %}
             </td>
-            <td>{{ item["Full name"] | default: "N/A" }}</td>
+            <td>{{ item["Full name"] }}</td>
             <td>{{ item["Used for"] | newline_to_br }}</td>
         </tr>
         {% endfor %}
@@ -119,13 +121,7 @@ If you prefer to get the full screw kits (remember that they do not include the 
             <td>{{ item.Quantity }}</td>
             <td>${{ item["Unit price estimate ($)"] | default: "N/A" }}</td>
             <td>{{ item.Comment }}</td>
-            <td>
-                {% if item.URL %}
-                    <a href="{{ item.URL }}" target="_blank">{{ item.URL }}</a>
-                {% else %}
-                    N/A
-                {% endif %}
-            </td>
+            <td><a href="{{ item.URL }}" target="_blank">{{ item.URL }}</a></td>
             <td>{{ item["Full name"] | default: "N/A" }}</td>
         </tr>
         {% endfor %}
@@ -152,16 +148,10 @@ this list is just provided for convenience.
         {% for item in site.data.parts_list_tools %}
         <tr>
             <td>{{ item.Name }}</td>
-            <td>${{ item["Unit price estimate ($)"] | default: "N/A" }}</td>
-            <td>{{ item.Comment | default: "N/A" }}</td>
-            <td>
-                {% if item.URL %}
-                    <a href="{{ item.URL }}" target="_blank">{{ item.URL }}</a>
-                {% else %}
-                    N/A
-                {% endif %}
-            </td>
-            <td>{{ item["Full name"] | default: "N/A" }}</td>
+            <td>${{ item["Unit price estimate ($)"]  }}</td>
+            <td>{{ item.Comment }}</td>
+            <td> <a href="{{ item.URL }}" target="_blank">{{ item.URL }}</a></td>
+            <td>{{ item["Full name"] }}</td>
             <td>{{ item["Used for"] | newline_to_br }}</td>
         </tr>
         {% endfor %}
@@ -175,7 +165,7 @@ The portable coronagraph requires at least one laptop. The laptop should have tw
 software required to control the cameras. If you want to be able to operate both cameras at the same time, you might
 consider using two laptops.
 
-## Frame box
+## Frame Box
 
 The frame box is an optional protection around the assembled coronagraph. It is made of aluminum frames and acrylic
 sheets that can be assembled and disassembled. The frame box is designed to protect the coronagraph during transport and
@@ -210,7 +200,7 @@ also during outreach and teaching activities.
     </tbody>
 </table>
 
-## Transportation case
+## Transportation Case
 
 This case is large enough to fit the coronagraph including the frame, spare parts and laptops. The foam is pre-scored
 into small cubes, so you could make the indentations in the foam whatever sizes they needed to be.
