@@ -51,7 +51,7 @@ that allows you to take your baby coronagraph on adventures.
     </tbody>
 </table>
 
-## Screws and tools
+## Screws and Tools
 
 The below table lists the screws and washers necessary for the full optical setup, exclusive all the screws that are
 already included in some of the parts in [Optical Components](#optical-components), like for example the 8-32 set screws
@@ -64,7 +64,7 @@ scavange them from colleagues or your lab. If not, we also list the respective s
 **Adapter screws** for the magnetic mounts are not included in any of the listed screw kits. You will still need to
 acquire these separately.
 
-### Screws and washers
+### Screws and Washers
 
 <table>
     <thead>
@@ -175,7 +175,7 @@ The portable coronagraph requires at least one laptop. The laptop should have tw
 software required to control the cameras. If you want to be able to operate both cameras at the same time, you might
 consider using two laptops.
 
-## Frame box
+## Frame Box
 
 The frame box is an optional protection around the assembled coronagraph. It is made of aluminum frames and acrylic
 sheets that can be assembled and disassembled. The frame box is designed to protect the coronagraph during transport and
@@ -210,7 +210,7 @@ also during outreach and teaching activities.
     </tbody>
 </table>
 
-## Transportation case
+## Transportation Case
 
 This case is large enough to fit the coronagraph including the frame, spare parts and laptops. The foam is pre-scored
 into small cubes, so you could make the indentations in the foam whatever sizes they needed to be.
