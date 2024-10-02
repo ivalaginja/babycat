@@ -43,9 +43,12 @@ and research settings. Most of the documentation and educational materials were 
 who worked with the RMOL team and STScI's Office of Public Outreach (OPO) during the summer of 2019.
 
 {: .notice--info}
-**The name:** Why "BabyCAT"? The workhorse project of the RMOL team is the HiCAT testbed - the "High-contrast imager for Complex
-Aperture Telescopes" testbed. Since the demo coronagraph was supposed to illustrate a mini version of HiCAT, the name
-"BabyCAT" seemed immediately evident.
+**The name:** Why "BabyCAT"? The workhorse project of the RMOL team is the [HiCAT testbed](https://ui.adsabs.harvard.edu/abs/2024arXiv240912931S/abstract) - the
+"High-contrast imager for Complex Aperture Telescopes" testbed. Since the demo coronagraph was supposed to illustrate a
+mini version of HiCAT, the name "BabyCAT" seemed immediately evident.
+
+The second demo bench, BabyCAT 2.0, was also assembled at the Makidon lab and later delivered to ExEP at JPL. Its
+upgraded design is the one that is presented on this website. 
 
 ## Where This Setup Is Used
 
