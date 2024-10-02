@@ -19,6 +19,8 @@ about:
     url: /about/#resources
   - title: "Team"
     url: /about/#team
+  - title: "License and Attribution"
+    url: /about/#license-and-attribution
 
 parts:
   - title: "Optical Components"
