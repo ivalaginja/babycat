@@ -67,8 +67,7 @@ The following institutions and groups own their own version of BabyCAT:
 ## Team
 
 - **Website**: [Iva Laginja](https://ivalaginja.github.io/)
-- **Optical design**: Rémi Soummer and Greg Brady
-- **Diagrams and schematics**: Lucas Batista
+- **Project lead and optical design**: Rémi Soummer
+- **Alignments, star and planet simulator**: Greg Brady, Pete Petrone, Evelyn McChesney
 - **Educational and outreach materials**: Lucas Batista, Timothy Rhue, Alexandra Lockwood
-- **Parts list**: Greg Brady, Evelyn McChesney, Jules Fowler, Iva Laginja, Maggie Kautz, Pete Petrone
-- **Documentation**: Greg Brady, Rémi Soummer, Iva Laginja, Jules Fowler, Scott Will, Maggie Kautz, Lucas Batista
+- **Documentation and parts lists**: Greg Brady, Iva Laginja, Jules Fowler, Scott Will, Maggie Kautz, Lucas Batista
