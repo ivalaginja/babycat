@@ -1,1 +1,6 @@
-<div class="page__footer-copyright">Website &copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.name }}</a> </div>
+<div class="page__footer">
+    <div class="page__footer-copyright">
+        Website &copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.name }}</a> |
+        <a href="{{ '/about#disclaimer' | relative_url }}">Disclaimer</a>
+    </div>
+</div>
