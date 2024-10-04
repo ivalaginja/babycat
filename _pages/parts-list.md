@@ -96,7 +96,7 @@ acquire these separately.
             </td>
             <td>{{ item.Vendor }}</td>
             <td>{{ item["Component name"] }}</td>
-            <td>{{ item["Used for"] | newline_to_br }}</td>
+            <td>{{ item["Assembly location"] | newline_to_br }}</td>
             <td>{{ item.Notes }}</td>
         </tr>
         {% endfor %}
@@ -155,7 +155,7 @@ this list is just provided for convenience.
             <td> <a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a></td>
             <td>{{ item.Vendor }}</td>
             <td>{{ item["Component name"] }}</td>
-            <td>{{ item["Used for"] | newline_to_br }}</td>
+            <td>{{ item["Assembly location"] | newline_to_br }}</td>
             <td>{{ item.Notes }}</td>
         </tr>
         {% endfor %}
