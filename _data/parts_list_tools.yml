@@ -1,31 +1,31 @@
 - Description: 'Key for 1/4"-20 cap screws (Balldriver)'
+  Component name: 'BD-3/16 - 3/16" Balldriver'
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=BD-3/16
   Unit price estimate ($): 6
+  Assembly location: '1/4-20 cap screws'
   Vendor: Thorlabs
   Notes: IMPERIAL!!
-  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=BD-3/16
-  Component name: 'BD-3/16 - 3/16" Balldriver'
-  Assembly location: '1/4-20 cap screws'
 
 - Description: '0.5" spanner wrench'
+  Component name: 'SPW603 - Spanner Wrench for SM05-Threaded Retaining Rings, Length = 1.00"'
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=SPW603
   Unit price estimate ($): 27
+  Assembly location: '0.5" lens mount'
   Vendor: Thorlabs
   Notes:
-  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=SPW603
-  Component name: 'SPW603 - Spanner Wrench for SM05-Threaded Retaining Rings, Length = 1.00"'
-  Assembly location: '0.5" lens mount'
 
 - Description: '1" spanner wrench'
+  Component name: 'SPW606 - Spanner Wrench for SM1-Threaded Retaining Rings, Length = 1.00"'
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=SPW606
   Unit price estimate ($): 30
+  Assembly location: '1" lens mount, 1" lens mount for FPM'
   Vendor: Thorlabs
   Notes:
-  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=SPW606
-  Component name: 'SPW606 - Spanner Wrench for SM1-Threaded Retaining Rings, Length = 1.00"'
-  Assembly location: '1" lens mount, 1" lens mount for FPM'
 
 - Description: 'Hex key set'
+  Component name: CCHK - 11-Piece Color-Coded Hex Key Set, Imperial
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CCHK
   Unit price estimate ($): 30
+  Assembly location: 'Laser mount/adapter, Kinematic mirror mount, 8-32 set screws'
   Vendor: Thorlabs
   Notes: IMPERIAL!!
-  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CCHK
-  Component name: CCHK - 11-Piece Color-Coded Hex Key Set, Imperial
-  Assembly location: 'Laser mount/adapter, Kinematic mirror mount, 8-32 set screws'

@@ -1,14 +1,14 @@
 - Description: '1/4"-20 Cap Screw Kit'
-  Quantity: 1
+  Component name: 'HW-KIT2 - 1/4"-20 Cap Screw and Hardware Kit'
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=HW-KIT2
   Unit price estimate ($): 135
+  Quantity: 1
   Vendor: Thorlabs
   Notes: 'Includes screws and washers'
-  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=HW-KIT2
-  Component name: 'HW-KIT2 - 1/4"-20 Cap Screw and Hardware Kit'
 - Description: '8-32 Setscrew Kit'
-  Quantity: 1
+  Component name: 'HW-KIT3 - 8-32 Setscrew and Hardware Kit'
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=HW-KIT3
   Unit price estimate ($): 130
+  Quantity: 1
   Vendor: Thorlabs
   Notes: 'Includes screws, washers and a hex key'
-  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=HW-KIT3
-  Component name: 'HW-KIT3 - 8-32 Setscrew and Hardware Kit'
