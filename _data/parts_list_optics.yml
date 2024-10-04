@@ -2,7 +2,7 @@
   Description: Aperture mask
   Source: https://lenoxlaser.com/contact/
   Unit price estimate ($): ~500
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: Aperture
   Vendor: Lenox Laser
   Notes: "Custom blackened aperture stop: 2.5 mm diameter hole, to mount in a 1\u201D\
@@ -11,7 +11,7 @@
   Description: Lyot stop iris
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=ID15
   Unit price estimate ($): 55
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: LS
   Vendor: Thorlabs
   Notes:
@@ -19,7 +19,7 @@
   Description: Focal-plane mask
   Source: https://lenoxlaser.com/shop/optical-apertures/standard-apertures/pinhole-mirrors/
   Unit price estimate ($): ~500
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: FPM
   Vendor: Lenox Laser
   Notes: 'Diameter: 500 um, Angle of incidence 0 deg'
@@ -27,7 +27,7 @@
   Description: FPM translation stage
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=DT12
   Unit price estimate ($): 85
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: FPM
   Vendor: Thorlabs
   Notes:
@@ -35,7 +35,7 @@
   Description: FPM protection cap
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L10
   Unit price estimate ($): 15
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: FPM
   Vendor: Thorlabs
   Notes:
@@ -43,7 +43,7 @@
   Description: "1\u201D lens mount for FPM"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1S
   Unit price estimate ($): 30
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: FPM
   Vendor: Thorlabs
   Notes:
@@ -51,7 +51,7 @@
   Description: Glasses for WFE
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CG15XH1
   Unit price estimate ($): 65
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: WFE
   Vendor: Thorlabs
   Notes: 'WFE option #1, pack of 100'
@@ -59,7 +59,7 @@
   Description: Broadband WFE option
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=WG10530
   Unit price estimate ($): 60
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: WFE
   Vendor: Thorlabs
   Notes: 'WFE option #2'
@@ -67,7 +67,7 @@
   Description: "0.5\u201D lens mount"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR05
   Unit price estimate ($): 16
-  Quantity: 2.0
+  Quantity: 2
   Assembly location: Tools, WFE
   Vendor: Thorlabs
   Notes: 'For WFE #2, and FPM aligment'
@@ -75,7 +75,7 @@
   Description: "1\u201D lens mount"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1#ad-image-0
   Unit price estimate ($): 16
-  Quantity: 3.0
+  Quantity: 3
   Assembly location: Aperture, Beam splitter, Laser
   Vendor: Thorlabs
   Notes:
@@ -83,7 +83,7 @@
   Description: "1\u201Dx1\u201D magnetic mounts"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=KB1X1
   Unit price estimate ($): 80
-  Quantity: 3.0
+  Quantity: 3
   Assembly location: FPM, LS, WFE
   Vendor: Thorlabs
   Notes:
@@ -91,7 +91,7 @@
   Description: Magnetic mount top plate
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=KBT1X1
   Unit price estimate ($): 40
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: WFE
   Vendor: Thorlabs
   Notes: 'For WFE #2'
@@ -99,7 +99,7 @@
   Description: Magnetic mount bottom plates
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=KBB1X1
   Unit price estimate ($): 40
-  Quantity: 3.0
+  Quantity: 3
   Assembly location: Breadboard
   Vendor: Thorlabs
   Notes:
@@ -107,7 +107,7 @@
   Description: Laser battery pack
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CPS1
   Unit price estimate ($): 40
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: Laser
   Vendor: Thorlabs
   Notes:
@@ -116,7 +116,7 @@
   Description: Laser diode
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CPS532-C2
   Unit price estimate ($): 200
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: Laser
   Vendor: Thorlabs
   Notes: Collimated green laser at 532 nm, Class II
@@ -125,7 +125,7 @@
   Description: Laser mount/adapter
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=AD11F
   Unit price estimate ($): 33
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: Laser
   Vendor: Thorlabs
   Notes:
@@ -133,7 +133,7 @@
   Description: Camera brackets
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=AB90A#ad-image-0
   Unit price estimate ($): 30
-  Quantity: 2.0
+  Quantity: 2
   Assembly location: Cameras
   Vendor: Thorlabs
   Notes:
@@ -141,7 +141,7 @@
   Description: "1\u201D post (grey)"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=RS2P
   Unit price estimate ($): 30
-  Quantity: 2.0
+  Quantity: 2
   Assembly location: Cameras
   Vendor: Thorlabs
   Notes:
@@ -150,7 +150,7 @@
   Description: "0.5\u201D post holders (black)"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=UPH2#ad-image-0
   Unit price estimate ($): 35
-  Quantity: 10.0
+  Quantity: 10
   Assembly location: Aperture, Beam splitter, LS, Laser, Mirror 1, Mirror 3, Mirror2,
     Tools, WFE
   Vendor: Thorlabs
@@ -159,7 +159,7 @@
   Description: "0.5\u201D posts"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=TR2
   Unit price estimate ($): 6
-  Quantity: 10.0
+  Quantity: 10
   Assembly location: Aperture, Beam splitter, LS, Laser, Mirror 1, Mirror 3, Mirror2,
     Tools, WFE
   Vendor: Thorlabs
@@ -168,7 +168,7 @@
   Description: Focal-plane and pupil-plane cameras
   Source:
   Unit price estimate ($): 150
-  Quantity: 2.0
+  Quantity: 2
   Assembly location: Cameras
   Vendor: ZWO
   Notes: ZWO ASI 120 color cameras
@@ -176,7 +176,7 @@
   Description: Clamping forks
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CF125#ad-image-0
   Unit price estimate ($): 9
-  Quantity: 2.0
+  Quantity: 2
   Assembly location: Cameras
   Vendor: Thorlabs
   Notes:
@@ -184,7 +184,7 @@
   Description: Mirrors f=200mm
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CM508-200-G01
   Unit price estimate ($): 125
-  Quantity: 2.0
+  Quantity: 2
   Assembly location: Mirror 1, Mirror2
   Vendor: Thorlabs
   Notes:
@@ -192,7 +192,7 @@
   Description: Mirror f=150mm
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CM508-150-G01
   Unit price estimate ($): 125
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: Mirror 3
   Vendor: Thorlabs
   Notes:
@@ -200,7 +200,7 @@
   Description: Kinematic mirror mount
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=KM200#ad-image-0
   Unit price estimate ($): 90
-  Quantity: 3.0
+  Quantity: 3
   Assembly location: Mirror 1, Mirror 3, Mirror2
   Vendor: Thorlabs
   Notes:
@@ -208,7 +208,7 @@
   Description: Beam splitter
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=EBP1
   Unit price estimate ($): 40
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: Beam splitter
   Vendor: Thorlabs
   Notes:
@@ -216,7 +216,7 @@
   Description: Breadboard
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=MB1224
   Unit price estimate ($): 305
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: Breadboard
   Vendor: Thorlabs
   Notes:
@@ -224,7 +224,7 @@
   Description: Breadboard feet set
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=BMF4
   Unit price estimate ($): 30
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: Breadboard
   Vendor: Thorlabs
   Notes: Set of four
@@ -232,7 +232,7 @@
   Description: "0.5\u201D flat mirror"
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=PF05-03-P01
   Unit price estimate ($): 33
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: Tools
   Vendor: Thorlabs
   Notes: For FPM alignment
@@ -241,7 +241,7 @@
   Description: Re-imaging lens
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=MAP107575-A
   Unit price estimate ($): 200
-  Quantity: 1.0
+  Quantity: 1
   Assembly location: Tools
   Vendor: Thorlabs
   Notes: "Temporarily mounted on a random 0.5\u201D post and 0.5\u201D post holder\
