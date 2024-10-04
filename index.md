@@ -3,7 +3,7 @@ title: BabyCAT
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.4"
   overlay_image: /assets/images/original_babyCAT2.jpeg
   actions:
     - label: "Get parts list"
@@ -17,17 +17,17 @@ feature_row:
     excerpt: "Read more about the BabyCAT project and the team behind it."
     url: /about/
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--warning"
   - title: "References"
     excerpt: "Find references and additional sources about BabyCAT and coronagraphy."
     url: /about/#resources
     btn_label: "See references"
-    btn_class: "btn--primary"
+    btn_class: "btn--danger"
   - title: "Attribution"
     excerpt: "Learn how to give us credit if you decide to use our materials to build your own BabyCAT."
     url: /about/#license-and-attribution
     btn_label: "Give credit"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
 ---
 
 {% include feature_row id="intro" type="center" %}
