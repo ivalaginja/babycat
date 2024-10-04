@@ -104,3 +104,7 @@ If you are presenting a demo coronagraph built after our base design, please giv
 on presentation slides and materials. If you are preparing a publication that uses references, please cite the website with:
 
 [include citation here, DOI coming soon]
+
+## Disclaimer
+
+
