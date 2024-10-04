@@ -150,7 +150,7 @@ this list is just provided for convenience.
     <tbody>
         {% for item in site.data.parts_list_tools %}
         <tr>
-            <td>{{ item.Name }}</td>
+            <td>{{ item.Description }}</td>
             <td>${{ item["Unit price estimate ($)"]  }}</td>
             <td> <a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a></td>
             <td>{{ item.Vendor }}</td>
