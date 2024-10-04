@@ -47,7 +47,7 @@ that allows you to take your baby coronagraph on adventures.
             <td>${{ item["Unit price estimate ($)"] }}</td>
             <td><a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a></td>
             <td>{{ item.Vendor }}</td>
-            <td>{{ item.Name }}</td>
+            <td>{{ item["Component name"] }}</td>
             <td>{{ item["Assembly location"] }}</td>
             <td>{{ item.Notes }}</td>
         </tr>
@@ -195,7 +195,7 @@ also during outreach and teaching activities.
             <td>${{ item["Unit price estimate ($)"] }}</td>
             <td><a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a></td>
             <td>{{ item.Vendor }}</td>
-            <td>{{ item.Name }}</td>
+            <td>{{ item["Component name"] }}</td>
             <td>{{ item.Notes }}</td>
         </tr>
         {% endfor %}
@@ -225,7 +225,7 @@ into small cubes, so you can make the indentations in the foam whatever sizes th
             <td>${{ item["Unit price estimate ($)"] }}</td>
             <td><a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a></td>
             <td>{{ item.Vendor }}</td>
-            <td>{{ item.Name }}</td>
+            <td>{{ item["Component name"] }}</td>
             <td>{{ item.Notes }}</td>
         </tr>
         {% endfor %}
