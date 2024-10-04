@@ -40,16 +40,16 @@ that allows you to take your baby coronagraph on adventures.
         </tr>
     </thead>
     <tbody>
-        {% for part in site.data.parts_list_optics %}
+        {% for item in site.data.parts_list_optics %}
         <tr>
-            <td>{{ part.Description }}</td>
-            <td>{{ part.Quantity }}</td>
-            <td>${{ part["Unit price estimate ($)"] }}</td>
-            <td><a href="{{ part.Source }}" target="_blank">{{ part.Source }}</a></td>
-            <td>{{ part.Vendor }}</td>
-            <td>{{ part.Name }}</td>
-            <td>{{ part["Assembly location"] }}</td>
-            <td>{{ part.Notes }}</td>
+            <td>{{ item.Description }}</td>
+            <td>{{ item.Quantity }}</td>
+            <td>${{ item["Unit price estimate ($)"] }}</td>
+            <td><a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a></td>
+            <td>{{ item.Vendor }}</td>
+            <td>{{ item.Name }}</td>
+            <td>{{ item["Assembly location"] }}</td>
+            <td>{{ item.Notes }}</td>
         </tr>
         {% endfor %}
     </tbody>
@@ -188,15 +188,15 @@ also during outreach and teaching activities.
         </tr>
     </thead>
     <tbody>
-        {% for part in site.data.parts_list_frame_box %}
+        {% for item in site.data.parts_list_frame_box %}
         <tr>
-            <td>{{ part.Description }}</td>
-            <td>{{ part.Quantity }}</td>
-            <td>${{ part["Unit price estimate ($)"] }}</td>
-            <td><a href="{{ part.Source }}" target="_blank">{{ part.Source }}</a></td>
-            <td>{{ part.Vendor }}</td>
-            <td>{{ part.Name }}</td>
-            <td>{{ part.Notes }}</td>
+            <td>{{ item.Description }}</td>
+            <td>{{ item.Quantity }}</td>
+            <td>${{ item["Unit price estimate ($)"] }}</td>
+            <td><a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a></td>
+            <td>{{ item.Vendor }}</td>
+            <td>{{ item.Name }}</td>
+            <td>{{ item.Notes }}</td>
         </tr>
         {% endfor %}
     </tbody>
@@ -219,14 +219,14 @@ into small cubes, so you can make the indentations in the foam whatever sizes th
         </tr>
     </thead>
     <tbody>
-        {% for part in site.data.parts_list_case %}
+        {% for item in site.data.parts_list_case %}
         <tr>
-            <td>{{ part.Description }}</td>
-            <td>${{ part["Unit price estimate ($)"] }}</td>
-            <td><a href="{{ part.Source }}" target="_blank">{{ part.Source }}</a></td>
-            <td>{{ part.Vendor }}</td>
-            <td>{{ part.Name }}</td>
-            <td>{{ part.Notes }}</td>
+            <td>{{ item.Description }}</td>
+            <td>${{ item["Unit price estimate ($)"] }}</td>
+            <td><a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a></td>
+            <td>{{ item.Vendor }}</td>
+            <td>{{ item.Name }}</td>
+            <td>{{ item.Notes }}</td>
         </tr>
         {% endfor %}
     </tbody>
