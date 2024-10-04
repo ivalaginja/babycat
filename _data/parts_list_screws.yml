@@ -1,28 +1,32 @@
 - Description: 1/4"-20 cap screws
   Min. quantity: 18
   Unit price estimate ($):
-  Comment: 'Length at least 3/4" and 1" or longer'
-  URL:
+  Vendor: Thorlabs
+  Notes: 'Length at least 3/4" and 1" or longer'
+  Source:
   Full name:
   Used for: 'Camera brackets, Clamping forks, 0.5" post holders'
 - Description: 1/4"-20 washers
   Min. quantity: 18
   Unit price estimate ($):
-  Comment: Comes at least in a 100 pack
-  URL: https://www.thorlabs.com/thorproduct.cfm?partnumber=W25S050
+  Vendor: Thorlabs
+  Notes: Comes at least in a 100 pack
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=W25S050
   Full name: 'W25S050 - 1/4" Washer, M6 Compatible, Stainless Steel, 100 Pack'
   Used for: 'Camera brackets, Clamping forks, 0.5" post holders'
 - Description: 8-32 set screws
   Min. quantity: 6
   Unit price estimate ($):
-  Comment: Translation stage to magnetic mount connection
-  URL:
+  Vendor: Thorlabs
+  Notes: Translation stage to magnetic mount connection
+  Source:
   Full name:
   Used for: 'FPM translation stage, 0.5"lens mount, 1" lens mount for FPM, 1" lens mount'
 - Description: Adapter screws
   Min. quantity: 3
-  Comment: To connect the magnetic mount bottom plates (component parking lots) to the breadboard
-  URL: https://www.thorlabs.com/thorproduct.cfm?partnumber=AE8E25E
+  Vendor: Thorlabs
+  Notes: To connect the magnetic mount bottom plates (component parking lots) to the breadboard
+  Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=AE8E25E
   Full name: "AE8E25E - Adapter with Internal 8-32 Threads and External 1/4\"-20 Threads,\
     \ 0.38\" Length\_"
   Used for: "Magnetic mount bottom plates"

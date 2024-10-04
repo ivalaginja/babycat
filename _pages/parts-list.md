@@ -31,7 +31,7 @@ that allows you to take your baby coronagraph on adventures.
         <tr>
             <th>Description</th>
             <th>Quantity</th>
-            <th>Unit price Estimate</th>
+            <th>Unit Price Estimate</th>
             <th>Source</th>
             <th>Vendor</th>
             <th>Component Name</th>
@@ -76,9 +76,10 @@ acquire these separately.
             <th>Description</th>
             <th>Min. Quantity</th>
             <th>Unit Price Estimate</th>
-            <th>Comment</th>
-            <th>URL</th>
-            <th>Full Name</th>
+            <th>Notes</th>
+            <th>Source</th>
+            <th>Vendor</th>
+            <th>Component Name</th>
             <th>Used For</th>
         </tr>
     </thead>
@@ -88,12 +89,13 @@ acquire these separately.
             <td>{{ item.Description }}</td>
             <td>{{ item["Min. quantity"] }}</td>
             <td>${{ item["Unit price estimate ($)"] }}</td>
-            <td>{{ item.Comment }}</td>
+            <td>{{ item.Notes }}</td>
             <td>
-                {% if item.URL %}
-                    <a href="{{ item.URL }}" target="_blank">{{ item.URL }}</a>
+                {% if item.Source %}
+                    <a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a>
                 {% endif %}
             </td>
+            <td>{{ item.Vendor }}</td>
             <td>{{ item["Full name"] }}</td>
             <td>{{ item["Used for"] | newline_to_br }}</td>
         </tr>
@@ -107,22 +109,22 @@ If you prefer to get the full screw kits (remember that they do not include the 
     <thead>
         <tr>
             <th>Description</th>
-            <th>Quantity</th>
             <th>Unit Price Estimate</th>
-            <th>Comment</th>
-            <th>URL</th>
-            <th>Full Name</th>
+            <th>Notes</th>
+            <th>Source</th>
+            <th>Vendor</th>
+            <th>Component Name</th>
         </tr>
     </thead>
     <tbody>
         {% for item in site.data.parts_list_screw_kits %}
         <tr>
             <td>{{ item.Description }}</td>
-            <td>{{ item.Quantity }}</td>
             <td>${{ item["Unit price estimate ($)"] | default: "N/A" }}</td>
-            <td>{{ item.Comment }}</td>
-            <td><a href="{{ item.URL }}" target="_blank">{{ item.URL }}</a></td>
-            <td>{{ item["Full name"] | default: "N/A" }}</td>
+            <td>{{ item.Notes }}</td>
+            <td><a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a></td>
+            <td>{{ item.Vendor }}</td>
+            <td>{{ item["Full name"] }}</td>
         </tr>
         {% endfor %}
     </tbody>
@@ -138,9 +140,10 @@ this list is just provided for convenience.
         <tr>
             <th>Description</th>
             <th>Unit Price Estimate</th>
-            <th>Comment</th>
-            <th>URL</th>
-            <th>Full Name</th>
+            <th>Notes</th>
+            <th>Source</th>
+            <th>Vendor</th>
+            <th>Component Name</th>
             <th>Used For</th>
         </tr>
     </thead>
@@ -149,8 +152,9 @@ this list is just provided for convenience.
         <tr>
             <td>{{ item.Name }}</td>
             <td>${{ item["Unit price estimate ($)"]  }}</td>
-            <td>{{ item.Comment }}</td>
-            <td> <a href="{{ item.URL }}" target="_blank">{{ item.URL }}</a></td>
+            <td>{{ item.Notes }}</td>
+            <td> <a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a></td>
+            <td>{{ item.Vendor }}</td>
             <td>{{ item["Full name"] }}</td>
             <td>{{ item["Used for"] | newline_to_br }}</td>
         </tr>
@@ -176,12 +180,12 @@ also during outreach and teaching activities.
         <tr>
             <th>Description</th>
             <th>Quantity</th>
-            <th>Price Estimate</th>
+            <th>Unit Price Estimate</th>
             <th>Source</th>
             <th>Vendor</th>
             <th>Component Name</th>
             <th>Assembly Location</th>
-            <th>Comment</th>
+            <th>Notes</th>
         </tr>
     </thead>
     <tbody>
@@ -203,26 +207,24 @@ also during outreach and teaching activities.
 ## Transportation Case
 
 This case is large enough to fit the coronagraph including the frame, spare parts and laptops. The foam is pre-scored
-into small cubes, so you could make the indentations in the foam whatever sizes they needed to be.
+into small cubes, so you can make the indentations in the foam whatever sizes they needed to be.
 
 <table>
     <thead>
         <tr>
             <th>Description</th>
-            <th>Quantity</th>
             <th>Price Estimate</th>
             <th>Source</th>
             <th>Vendor</th>
             <th>Component Name</th>
             <th>Assembly Location</th>
-            <th>Comment</th>
+            <th>Notes</th>
         </tr>
     </thead>
     <tbody>
         {% for part in site.data.parts_list_case %}
         <tr>
             <td>{{ part.Description }}</td>
-            <td>{{ part.Quantity }}</td>
             <td>${{ part["Unit price estimate ($)"] }}</td>
             <td><a href="{{ part.Source }}" target="_blank">{{ part.Source }}</a></td>
             <td>{{ part.Vendor }}</td>
