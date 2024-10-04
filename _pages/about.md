@@ -109,4 +109,14 @@ If you are preparing a publication that uses references, please cite the website
 
 ## Disclaimer
 
+The information provided on this website, including parts lists, specifications, estimated prices, and sources, is
+intended for educational purposes only. While we strive to ensure accuracy, we make no guarantees regarding the
+completeness, correctness, or currentness of the information. Prices listed are only estimates and may vary depending
+on supplier and market conditions.
 
+We are not affiliated with, nor do we endorse or receive sponsorship from, any of the vendors mentioned on this website.
+All product references and links to external sources are provided for convenience and should not be taken as an endorsement.
+
+By using this website, you acknowledge and agree that we cannot be held responsible or liable for any errors, omissions,
+or discrepancies in the information provided, nor for any actions taken based on this information. Users are encouraged
+to verify details independently before making purchases or relying on the provided information.
