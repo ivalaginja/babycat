@@ -101,7 +101,8 @@ include some of your pictures in our [gallery](#gallery) if you would like!
 {: .notice--info}
 
 If you are presenting a demo coronagraph built after our base design, please give us credit by **including the website URL**
-on presentation slides and associated materials, showing the logo if possible.
+on presentation slides and associated materials, showing the [logo](https://github.com/ivalaginja/babycat/blob/main/assets/images/Babycat_logo_text.jpeg)
+if possible.
 
 If you are preparing a publication that uses references, please cite the website with:
 
