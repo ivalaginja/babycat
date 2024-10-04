@@ -26,6 +26,14 @@ that allows you to take your baby coronagraph on adventures.
 
 ## Optical Components
 
+{: .notice--success}
+The total price estimate for the optical components listed below is **$4,200**.
+
+Note how the above price estimate includes the three alignment optics (labelled with "Alignment") which together cost
+~$300.
+
+It is further possible to reduce the cost by 
+
 <table>
     <thead>
         <tr>
@@ -174,6 +182,11 @@ consider using two laptops.
 The frame box is an optional protection around the assembled coronagraph. It is made of aluminum frames and acrylic
 sheets that can be assembled and disassembled. The frame box is designed to protect the coronagraph during transport and
 also during outreach and teaching activities.
+
+{: .notice--success}
+The total price estimate for the frame box is **$490**.
+
+The frame box is extremely useful if you intend to transport your demo coronagraph in any sort of transportation case.
 
 <table>
     <thead>
