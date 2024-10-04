@@ -6,6 +6,7 @@
   Assembly location: 'Camera brackets, Clamping forks, 0.5" post holders'
   Vendor: Thorlabs
   Notes: 'Length at least 3/4" and 1" or longer'
+
 - Description: 1/4"-20 washers
   Component name: 'W25S050 - 1/4" Washer, M6 Compatible, Stainless Steel, 100 Pack'
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=W25S050
@@ -14,6 +15,7 @@
   Assembly location: 'Camera brackets, Clamping forks, 0.5" post holders'
   Vendor: Thorlabs
   Notes: Comes at least in a 100 pack
+
 - Description: 8-32 set screws
   Component name:
   Source:
@@ -22,6 +24,7 @@
   Assembly location: 'FPM translation stage, 0.5"lens mount, 1" lens mount for FPM, 1" lens mount'
   Vendor: Thorlabs
   Notes: Translation stage to magnetic mount connection
+
 - Description: Adapter screws
   Component name: "AE8E25E - Adapter with Internal 8-32 Threads and External 1/4\"-20 Threads,\
       \ 0.38\" Length\_"

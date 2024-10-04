@@ -7,6 +7,7 @@
   Assembly location: Box
   Vendor: 80/20
   Notes: "2 x 22\u201D sections"
+
 - Description: Medium frame rails
   Component name: "1.00\u201D X 1.00\u201D T-Slotted Profile - Two Adjacent Open T-Slots (Part\
     \ No. 1002-S-Black-FB)"
@@ -16,6 +17,7 @@
   Assembly location: Box
   Vendor: 80/20
   Notes: "2 x 10\u201D sections"
+
 - Description: Short frame rails
   Component name: "1.00\u201D X 1.00\u201D T-Slotted Profile - Two Adjacent Open T-Slots (Part\
     \ No. 1002-S-Black-FB)"
@@ -25,6 +27,7 @@
   Assembly location: Box
   Vendor: 80/20
   Notes: "4 x 6.5\u201D sections"
+
 - Description: Frame screws
   Component name: 1/4-20 x 1.000" Low Head Socket Cap Screw (LHSCS) (Part No. 3017)
   Source: https://8020.net/3017.html
@@ -33,6 +36,7 @@
   Assembly location: Box
   Vendor: 80/20
   Notes: These are 1/4-20 caps screws
+
 - Description: Corner brackets
   Component name: 10 Series 2 Hole - Gusseted Inside Corner Bracket (Part No. 4132-Black)
   Source: https://8020.net/4132-black.html
@@ -41,6 +45,7 @@
   Assembly location: Box
   Vendor: 80/20
   Notes:
+
 - Description: Corner connector
   Component name: 10 Series 3 Way - Squared Corner Connector (Part No. 4042-Black)
   Source: https://8020.net/4042-black.html
@@ -49,6 +54,7 @@
   Assembly location: Box
   Vendor: 80/20
   Notes:
+
 - Description: Acrylic sheets
   Component name: Clear Scratch- and UV-Resistant Cast Acrylic Sheets
   Source: https://www.mcmaster.com/8560k192
@@ -57,6 +63,7 @@
   Assembly location: Box
   Vendor: McMaster
   Notes: "Four sheets of 12\u201D x 24\u201D, thickness 1/8\u201D"
+
 - Description: Sheet handles
   Component name: Threaded-Hole Round Pull Handle
   Source: https://www.mcmaster.com/1726A6/
