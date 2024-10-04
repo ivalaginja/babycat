@@ -96,7 +96,11 @@ acquire these separately.
         <tr>
             <td>{{ item.Description }}</td>
             <td>{{ item["Min. quantity"] }}</td>
-            <td>${{ item["Unit price estimate ($)"] }}</td>
+            <td>
+                {% if item["Unit price estimate ($)"] %}
+                    ${{ item["Unit price estimate ($)"] }}
+                {% endif %}
+            </td>
             <td>
                 {% if item.Source %}
                     <a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a>
