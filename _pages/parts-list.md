@@ -35,7 +35,7 @@ that allows you to take your baby coronagraph on adventures.
             <th>Source</th>
             <th>Vendor</th>
             <th>Component Name</th>
-            <th>Assembly Location</th>
+            <th>Used For</th>
             <th>Notes</th>
         </tr>
     </thead>
@@ -76,11 +76,11 @@ acquire these separately.
             <th>Description</th>
             <th>Min. Quantity</th>
             <th>Unit Price Estimate</th>
-            <th>Notes</th>
             <th>Source</th>
             <th>Vendor</th>
             <th>Component Name</th>
             <th>Used For</th>
+            <th>Notes</th>
         </tr>
     </thead>
     <tbody>
@@ -89,15 +89,15 @@ acquire these separately.
             <td>{{ item.Description }}</td>
             <td>{{ item["Min. quantity"] }}</td>
             <td>${{ item["Unit price estimate ($)"] }}</td>
-            <td>{{ item.Notes }}</td>
             <td>
                 {% if item.Source %}
                     <a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a>
                 {% endif %}
             </td>
             <td>{{ item.Vendor }}</td>
-            <td>{{ item["Full name"] }}</td>
+            <td>{{ item["Component name"] }}</td>
             <td>{{ item["Used for"] | newline_to_br }}</td>
+            <td>{{ item.Notes }}</td>
         </tr>
         {% endfor %}
     </tbody>
@@ -110,21 +110,21 @@ If you prefer to get the full screw kits (remember that they do not include the 
         <tr>
             <th>Description</th>
             <th>Unit Price Estimate</th>
-            <th>Notes</th>
             <th>Source</th>
             <th>Vendor</th>
             <th>Component Name</th>
+            <th>Notes</th>
         </tr>
     </thead>
     <tbody>
         {% for item in site.data.parts_list_screw_kits %}
         <tr>
             <td>{{ item.Description }}</td>
-            <td>${{ item["Unit price estimate ($)"] | default: "N/A" }}</td>
-            <td>{{ item.Notes }}</td>
+            <td>${{ item["Unit price estimate ($)"]}}</td>
             <td><a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a></td>
             <td>{{ item.Vendor }}</td>
-            <td>{{ item["Full name"] }}</td>
+            <td>{{ item["Component name"] }}</td>
+            <td>{{ item.Notes }}</td>
         </tr>
         {% endfor %}
     </tbody>
@@ -140,11 +140,11 @@ this list is just provided for convenience.
         <tr>
             <th>Description</th>
             <th>Unit Price Estimate</th>
-            <th>Notes</th>
             <th>Source</th>
             <th>Vendor</th>
             <th>Component Name</th>
             <th>Used For</th>
+            <th>Notes</th>
         </tr>
     </thead>
     <tbody>
@@ -152,11 +152,11 @@ this list is just provided for convenience.
         <tr>
             <td>{{ item.Name }}</td>
             <td>${{ item["Unit price estimate ($)"]  }}</td>
-            <td>{{ item.Notes }}</td>
             <td> <a href="{{ item.Source }}" target="_blank">{{ item.Source }}</a></td>
             <td>{{ item.Vendor }}</td>
-            <td>{{ item["Full name"] }}</td>
+            <td>{{ item["Component name"] }}</td>
             <td>{{ item["Used for"] | newline_to_br }}</td>
+            <td>{{ item.Notes }}</td>
         </tr>
         {% endfor %}
     </tbody>
@@ -184,7 +184,6 @@ also during outreach and teaching activities.
             <th>Source</th>
             <th>Vendor</th>
             <th>Component Name</th>
-            <th>Assembly Location</th>
             <th>Notes</th>
         </tr>
     </thead>
@@ -197,7 +196,6 @@ also during outreach and teaching activities.
             <td><a href="{{ part.Source }}" target="_blank">{{ part.Source }}</a></td>
             <td>{{ part.Vendor }}</td>
             <td>{{ part.Name }}</td>
-            <td>{{ part["Assembly location"] }}</td>
             <td>{{ part.Notes }}</td>
         </tr>
         {% endfor %}
@@ -217,7 +215,6 @@ into small cubes, so you can make the indentations in the foam whatever sizes th
             <th>Source</th>
             <th>Vendor</th>
             <th>Component Name</th>
-            <th>Assembly Location</th>
             <th>Notes</th>
         </tr>
     </thead>
@@ -229,7 +226,6 @@ into small cubes, so you can make the indentations in the foam whatever sizes th
             <td><a href="{{ part.Source }}" target="_blank">{{ part.Source }}</a></td>
             <td>{{ part.Vendor }}</td>
             <td>{{ part.Name }}</td>
-            <td>{{ part["Assembly location"] }}</td>
             <td>{{ part.Notes }}</td>
         </tr>
         {% endfor %}

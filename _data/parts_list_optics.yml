@@ -68,7 +68,7 @@
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR05
   Unit price estimate ($): 16
   Quantity: 2
-  Assembly location: Tools, WFE
+  Assembly location: Alignment, WFE
   Vendor: Thorlabs
   Notes: 'For WFE #2, and FPM aligment'
 - Name: "LMR1 - Lens Mount with Retaining Ring for \xD81\" Optics, 8-32 Tap"
@@ -151,8 +151,8 @@
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=UPH2#ad-image-0
   Unit price estimate ($): 35
   Quantity: 10
-  Assembly location: Aperture, Beam splitter, LS, Laser, Mirror 1, Mirror 3, Mirror2,
-    Tools, WFE
+  Assembly location: Aperture, Beam splitter, LS, Laser, Mirror 1, Mirror 2, Mirror 3,
+    Alignment, WFE
   Vendor: Thorlabs
   Notes: One is for the flat mirror
 - Name: "TR2 - \xD81/2\" Optical Post, SS, 8-32 Setscrew, 1/4\"-20 Tap, L = 2\u201D"
@@ -160,8 +160,8 @@
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=TR2
   Unit price estimate ($): 6
   Quantity: 10
-  Assembly location: Aperture, Beam splitter, LS, Laser, Mirror 1, Mirror 3, Mirror2,
-    Tools, WFE
+  Assembly location: Aperture, Beam splitter, LS, Laser, Mirror 1, Mirror 2, Mirror 3,
+    Alignment, WFE
   Vendor: Thorlabs
   Notes: One is for the flat mirror
 - Name: ZWO ASI120MC
@@ -185,7 +185,7 @@
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CM508-200-G01
   Unit price estimate ($): 125
   Quantity: 2
-  Assembly location: Mirror 1, Mirror2
+  Assembly location: Mirror 1, Mirror 2
   Vendor: Thorlabs
   Notes:
 - Name: "CM508-150-G01 - \xD82\" Aluminum-Coated Concave Mirror, f = 150.0 mm"
@@ -201,7 +201,7 @@
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=KM200#ad-image-0
   Unit price estimate ($): 90
   Quantity: 3
-  Assembly location: Mirror 1, Mirror 3, Mirror2
+  Assembly location: Mirror 1, Mirror 2, Mirror 3
   Vendor: Thorlabs
   Notes:
 - Name: "EBP1 - Economy 30:70 Beamsplitter, \xD81\", AOI: 45\xB0"
@@ -233,7 +233,7 @@
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=PF05-03-P01
   Unit price estimate ($): 33
   Quantity: 1
-  Assembly location: Tools
+  Assembly location: Alignment
   Vendor: Thorlabs
   Notes: For FPM alignment
 - Name: 'MAP107575-A - 1:1 Matched Achromatic Pair, f1=75.0 mm, f2=75.0 mm, ARC: 400-700
@@ -242,7 +242,7 @@
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=MAP107575-A
   Unit price estimate ($): 200
   Quantity: 1
-  Assembly location: Tools
+  Assembly location: Alignment
   Vendor: Thorlabs
   Notes: "Temporarily mounted on a random 0.5\u201D post and 0.5\u201D post holder\
-    \ during alignmen"
+    \ during FPM alignment"

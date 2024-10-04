@@ -3,7 +3,7 @@
   Vendor: Thorlabs
   Notes: IMPERIAL!!
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=BD-3/16
-  Full name: 'BD-3/16 - 3/16" Balldriver'
+  Component name: 'BD-3/16 - 3/16" Balldriver'
   Used for: '1/4-20 cap screws'
 
 - Name: '0.5" spanner wrench'
@@ -11,7 +11,7 @@
   Vendor: Thorlabs
   Notes:
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=SPW603
-  Full name: 'SPW603 - Spanner Wrench for SM05-Threaded Retaining Rings, Length = 1.00"'
+  Component name: 'SPW603 - Spanner Wrench for SM05-Threaded Retaining Rings, Length = 1.00"'
   Used for: '0.5" lens mount'
 
 - Name: '1" spanner wrench'
@@ -19,7 +19,7 @@
   Vendor: Thorlabs
   Notes:
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=SPW606
-  Full name: 'SPW606 - Spanner Wrench for SM1-Threaded Retaining Rings, Length = 1.00"'
+  Component name: 'SPW606 - Spanner Wrench for SM1-Threaded Retaining Rings, Length = 1.00"'
   Used for: '1" lens mount, 1" lens mount for FPM'
 
 - Name: 'Hex key set'
@@ -27,5 +27,5 @@
   Vendor: Thorlabs
   Notes: IMPERIAL!!
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CCHK
-  Full name: CCHK - 11-Piece Color-Coded Hex Key Set, Imperial
+  Component name: CCHK - 11-Piece Color-Coded Hex Key Set, Imperial
   Used for: 'Laser mount/adapter, Kinematic mirror mount, 8-32 set screws'
