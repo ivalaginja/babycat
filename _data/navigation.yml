@@ -21,6 +21,8 @@ about:
     url: /about/#team
   - title: "License and Attribution"
     url: /about/#license-and-attribution
+  - title: "Disclaimer"
+    url: /about/#disclaimer
 
 parts:
   - title: "Optical Components"
