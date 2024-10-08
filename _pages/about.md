@@ -10,8 +10,10 @@ sidebar:
 ## What is a Coronagraph?
 
 A coronagraph is an optical instrument used in astronomical observations. It blocks the light from a star in order to
-observe the faint objects around it. This can be used to find exoplanets, study the star's environment, and observe
-circumstellar disks.
+observe the faint objects around it. Originally, the solar coronagraph was developed to observe the Sun's corona. After
+adaptations in the 60's and 70's, stellar coronagraphs can be used to find exoplanets, study a star's environment, and
+observe circumstellar disks. NASA's next flagship mission, the Habitable Worlds Observatory (HWO), will be specifically
+designed for coronagraphy in order to find and characterize several tens of potentially habitable, Earth-like exoplanets.
 
 A coronagraph consists of various masks that, when used in combination, attenuate the starlight while allowing the faint
 planet light to shine through. There are many different types of coronagraphs, as the optical masks can be located in
@@ -73,7 +75,7 @@ The following institutions and groups own their own version of BabyCAT:
 - Introduction to coronagraphy, David Doelman at the Sagan Summer Workshop 2024: [Video](https://www.youtube.com/watch?v=SYHAL5hxEbQ)
 
 - SASP student presentation by Lucas Batista: [Recording](https://cloudproject.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bb1e9b5-8229-426e-a6fc-aaa400fe927a) - starting at 31:18
-- Batista et al. (2020): [BAAS, Vol. 52, No. 1](https://ui.adsabs.harvard.edu/abs/2020AAS...23520313B/abstract)
+- Batista et al. (2020): [BAAS, Vol. 52, No. 1](https://ui.adsabs.harvard.edu/abs/2020AAS...23520313B/abstract) - [Poster](https://github.com/ivalaginja/babycat/tree/main/assets/pdfs/Batista-et-al_AAS-poster-Jan-2020.pdf)
 - RMOL publication list: [ADS library](https://ui.adsabs.harvard.edu/public-libraries/0jrikEsaQ6W3ubvGa3ZivA)
 - RMOL website: [RMOL](https://www.stsci.edu/stsci-research/research-topics-and-programs/russell-b-makidon-optics-laboratory)
 - STScI website: [STScI](https://www.stsci.edu/)
