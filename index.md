@@ -34,4 +34,6 @@ feature_row:
 
 {% include feature_row %}
 
-
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7be765f69cd84b2fa9a9a83a1ab1022a"}'></script>
+<!-- End Cloudflare Web Analytics -->
