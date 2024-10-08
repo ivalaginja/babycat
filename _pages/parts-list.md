@@ -27,12 +27,15 @@ that allows you to take your baby coronagraph on adventures.
 ## Optical Components
 
 {: .notice--success}
-The total price estimate for the optical components listed below is **$4,200**.
+The total price estimate for the optical components listed below is **$4,200**.  
+Without the alignment tools and with the simpler aperture, this reduces to **$3,400**.
 
 Note how the above price estimate includes the three alignment optics (labelled with "Alignment") which together cost
-~$300.
+~$300 and can be omitted if you already own similar components.
 
-It is further possible to reduce the cost by 
+It is further possible to reduce the cost by replacing the laser-cut aperture mask listed in the table below with a
+2.5 mm [Thorlabs alignment tool](https://www.thorlabs.com/thorproduct.cfm?partnumber=AP2.5) that doubles as an aperture,
+for $12. The quality of the aperture image will be lower, but it is easy to upgrade this at a later time.
 
 <table>
     <thead>
