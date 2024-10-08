@@ -73,7 +73,7 @@ The following institutions and groups own their own version of BabyCAT:
 - Introduction to coronagraphy, David Doelman at the Sagan Summer Workshop 2024: [Video](https://www.youtube.com/watch?v=SYHAL5hxEbQ)
 
 - SASP student presentation by Lucas Batista: [Recording](https://cloudproject.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bb1e9b5-8229-426e-a6fc-aaa400fe927a) - starting at 31:18
-- Batista et al. (2020): [BAAS, Vol. 52, No. 1](https://ui.adsabs.harvard.edu/abs/2020AAS...23520313B/abstract)
+- Batista et al. (2020): [BAAS, Vol. 52, No. 1](https://ui.adsabs.harvard.edu/abs/2020AAS...23520313B/abstract) - [Poster](https://github.com/ivalaginja/babycat/tree/main/assets/pdfs/Batista-et-al_AAS-poster-Jan-2020.pdf)
 - RMOL publication list: [ADS library](https://ui.adsabs.harvard.edu/public-libraries/0jrikEsaQ6W3ubvGa3ZivA)
 - RMOL website: [RMOL](https://www.stsci.edu/stsci-research/research-topics-and-programs/russell-b-makidon-optics-laboratory)
 - STScI website: [STScI](https://www.stsci.edu/)
