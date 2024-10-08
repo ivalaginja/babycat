@@ -172,7 +172,7 @@
   Assembly location: Aperture, Beam splitter, LS, Laser, Mirror 1, Mirror 2, Mirror 3,
     Alignment, WFE
   Vendor: Thorlabs
-  Notes: One is for the flat mirror
+  Notes: One is for the flat alignment mirror
 
 - Description: "0.5\u201D posts"
   Component name: "TR2 - \xD81/2\" Optical Post, SS, 8-32 Setscrew, 1/4\"-20 Tap, L = 2\u201D"
@@ -182,7 +182,7 @@
   Assembly location: Aperture, Beam splitter, LS, Laser, Mirror 1, Mirror 2, Mirror 3,
     Alignment, WFE
   Vendor: Thorlabs
-  Notes: One is for the flat mirror
+  Notes: One is for the flat alignment mirror
 
 - Description: Focal-plane and pupil-plane cameras
   Component name: ZWO ASI120MC
