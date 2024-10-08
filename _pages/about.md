@@ -94,9 +94,10 @@ The content of this project itself is licensed under the [Creative Commons Attri
 and the underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/ivalaginja/babycat/blob/main/LICENSE.md).
 
 If you decide to build your own BabyCAT, we would appreciate it if you could let us know! If you can, please open a new
-pull request on our [repo](https://github.com/ivalaginja/babycat) and add your setup to the [About page](https://github.com/ivalaginja/babycat/blob/103fcb7ee5d4079e2fa5718537a93478276de5b8/_pages/about.md?plain=1#L53).
-Alternatively, you can open an issue or email us (see [Team](#team)) and we will do this for you. We can also
-include some of your pictures in our [gallery](#gallery) if you would like!
+pull request on our [repo](https://github.com/ivalaginja/babycat) and add your setup to the "Where This Setup Is Used"
+section on the [About page](https://github.com/ivalaginja/babycat/blob/103fcb7ee5d4079e2fa5718537a93478276de5b8/_pages/about.md?plain=1#L53).
+Alternatively, you can open a [GitHub issue](https://github.com/ivalaginja/babycat/issues) or email us (see [Team](#team))
+and we will do this for you. We can also include some of your pictures in our [gallery](#gallery) if you would like!
 
 {: .notice--info}
 
