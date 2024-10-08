@@ -35,6 +35,8 @@ parts:
     url: /parts-list/#frame-box
   - title: "Transportation Case"
     url: /parts-list/#transportation-case
+  - title: "Star and Planet Simulator"
+    url: /parts-list/#star-and-planet-simulator
 
 assembly:
   - title: "Unfolded Optical Layout"
