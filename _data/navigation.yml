@@ -5,6 +5,8 @@ main:
     url: /assembly/
   - title: "About"
     url: /about/
+  - title: "Gallery"
+    url: /gallery/
 
 about:
   - title: "What is a Coronagraph?"
