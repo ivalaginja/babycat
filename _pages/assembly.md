@@ -33,6 +33,8 @@ BabyCAT contains a classical Lyot coronagraph with a Lyot stop adjustable in dia
 In this setup, the three optical elements 1-3 (OE1, OE2, OE3) are spherical mirrors with focal lengths of 200 mm,
 200 mm, and 150 mm, respectively.
 
+[Download PDF](https://github.com/ivalaginja/babycat/tree/main/assets/pdfs/BabyCAT_unfolded.pdf){: .btn .btn--danger}
+
 ![Optical Layout](/assets/images/BabyCAT_unfolded.png){: .align-center}
 
 Below, you can see close-up images of the reflective focal-plane mask (left) and the Lyot stop iris (right) on their respective magnetic
@@ -44,9 +46,13 @@ mounts.
 
 The below is a schematic of the general layout of the demo coronagraph.
 
+[Download PDF](https://github.com/ivalaginja/babycat/tree/main/assets/pdfs/BabyCAT_schematic.pdf){: .btn .btn--danger}
+
 ![BabyCAT schematic](/assets/images/BabyCAT_schematic.png){: .align-center}
 
 ## Assembly Outline
+
+[Download PDF](https://github.com/ivalaginja/babycat/tree/main/assets/pdfs/assembly_outline.pdf){: .btn .btn--danger}
 
 The alignment of the demo coronagraph requires some familiarity with standard optical alignment techniques and the use
 of standard optics mounts, as well as good judgment as to when PSFs and images are in good focus. For cost reasons, most
