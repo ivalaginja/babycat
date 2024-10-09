@@ -5,10 +5,6 @@ permalink: /gallery/
 classes: wide
 
 aas_seattle_2019:
-  - url: /assets/gallery/2019-01_AAS-Seattle_1.JPG
-    image_path: /assets/gallery/2019-01_AAS-Seattle_1.JPG
-    alt: "BabyCAT at the winter AAS meeting 2019 in Seattle"
-    title: "BabyCAT at the winter AAS meeting 2019 in Seattle"
   - url: /assets/gallery/2019-01_AAS-Seattle_2.JPG
     image_path: /assets/gallery/2019-01_AAS-Seattle_2.JPG
     alt: "BabyCAT at the winter AAS meeting 2019 in Seattle"
@@ -19,6 +15,14 @@ aas_seattle_2019:
     title: "BabyCAT at the winter AAS meeting 2019 in Seattle"
   - url: /assets/gallery/2019-01_AAS-Seattle_4.JPG
     image_path: /assets/gallery/2019-01_AAS-Seattle_4.JPG
+    alt: "BabyCAT at the winter AAS meeting 2019 in Seattle"
+    title: "BabyCAT at the winter AAS meeting 2019 in Seattle"
+  - url: https://pbs.twimg.com/media/DwklB8_UcAELdip.jpg
+    image_path: https://pbs.twimg.com/media/DwklB8_UcAELdip.jpg
+    alt: "BabyCAT at the winter AAS meeting 2019 in Seattle"
+    title: "BabyCAT at the winter AAS meeting 2019 in Seattle"
+  - url: /assets/gallery/2019-01_AAS-Seattle_1.JPG
+    image_path: /assets/gallery/2019-01_AAS-Seattle_1.JPG
     alt: "BabyCAT at the winter AAS meeting 2019 in Seattle"
     title: "BabyCAT at the winter AAS meeting 2019 in Seattle"
 babycat2_jpl_2019:
