@@ -67,7 +67,7 @@ washington_post_2024:
 
 ## BabyCAT 2.0 featured in the Washington post
 
-"The Searchers", Dave Eggers on NASA's Jet Propulsion Lab as part of the series: "Who is Government? A series from post opinions", September 17, 2024  
+"The Searchers", Dave Eggers on NASA's Jet Propulsion Lab as part of the series: "Who is Government? A series from post opinions". September 17, 2024.  
 [Link to article](https://www.washingtonpost.com/opinions/interactive/2024/dave-eggers-jet-propulsion-labo[…]yJ9.8yJ63U47Ml9Dgj5Rh_hv15OtmR-D6MeAEsN59PoIK7Q&itid=gfta)
 
 {% include gallery id="washington_post_2024" caption="Dr. Vanessa Bailey with BabyCAT 2.0" %}
