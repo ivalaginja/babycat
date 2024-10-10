@@ -260,12 +260,12 @@ into small cubes, so you can make the indentations in the foam whatever sizes th
 
 The basic demo coronagraph as currently described with the [Optical Components](#optical-components) parts list and the
 [assembly instructions](/assembly/) assume a simple green laser diode as a lights source. It is labelled as a class II
-laser and is safe to use as-is and easy to handle. This is how the original BabyCAT was built.
+laser, and is safe to use as-is and easy to handle. This is how the original BabyCAT was built.
 
-The upgrades in BabyCAT 2.0 included a star and planet simulator, which was a custom-made light-source assembly with
-one on-axis laser and an off-axis laser to simulate a faint planet. They used class IIIb red lasers with a diverging
-beam which requires a safety tube and aperture limitation. The red laser fiber is used in combination with a collimator
-lens, which is easily added to the basic setup.
+The upgrade to BabyCAT 2.0 includes a star and planet simulator. This is a custom-made light-source assembly with
+one on-axis laser, and one off-axis laser to simulate a faint planet. It uses red class IIIb lasers with a diverging
+beam which requires a safety tube and aperture limitation to sufficiently reduce the power. The star and planet simulator is
+used in combination with a collimator lens, which is easily added to the basic setup.
 
 While swapping between both sources is relatively easy and can be achieved in 10 min or so, construction of the star
 and planet system takes some time. A manual for this might be provided at a later date.
