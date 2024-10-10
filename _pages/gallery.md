@@ -8,50 +8,50 @@ aas_seattle_2019:
   - url: /assets/gallery/2019-01_AAS-Seattle_2.JPG
     image_path: /assets/gallery/2019-01_AAS-Seattle_2.JPG
     alt: "BabyCAT at the winter AAS meeting 2019 in Seattle"
-    title: "BabyCAT at the winter AAS meeting 2019 in Seattle"
+    title: "Credit: R. Soummer"
   - url: /assets/gallery/2019-01_AAS-Seattle_3.JPG
     image_path: /assets/gallery/2019-01_AAS-Seattle_3.JPG
     alt: "BabyCAT at the winter AAS meeting 2019 in Seattle"
-    title: "BabyCAT at the winter AAS meeting 2019 in Seattle"
+    title: "Credit: R. Soummer"
   - url: /assets/gallery/2019-01_AAS-Seattle_4.JPG
     image_path: /assets/gallery/2019-01_AAS-Seattle_4.JPG
     alt: "BabyCAT at the winter AAS meeting 2019 in Seattle"
-    title: "BabyCAT at the winter AAS meeting 2019 in Seattle"
+    title: "Credit: R. Soummer"
   - url: https://pbs.twimg.com/media/DwklB8_UcAELdip.jpg
     image_path: https://pbs.twimg.com/media/DwklB8_UcAELdip.jpg
     alt: "BabyCAT at the winter AAS meeting 2019 in Seattle"
-    title: "BabyCAT at the winter AAS meeting 2019 in Seattle"
+    title: "Credit: B. Macintosh"
   - url: /assets/gallery/2019-01_AAS-Seattle_1.JPG
     image_path: /assets/gallery/2019-01_AAS-Seattle_1.JPG
     alt: "BabyCAT at the winter AAS meeting 2019 in Seattle"
-    title: "BabyCAT at the winter AAS meeting 2019 in Seattle"
+    title: "Credit: R. Soummer"
 babycat2_jpl_2019:
   - url: /assets/gallery/2019-12-04_JPL_1.jpg
     image_path: /assets/gallery/2019-12-04_JPL_1.jpg
     alt: "BabyCAT 2.0 being delivered to JPL"
-    title: "BabyCAT 2.0 being delivered to JPL"
+    title: "Credit: R. Soummer"
   - url: /assets/gallery/2019-12-04_JPL_2.JPG
     image_path: /assets/gallery/2019-12-04_JPL_2.JPG
     alt: "BabyCAT 2.0 being delivered to JPL"
-    title: "BabyCAT 2.0 being delivered to JPL"
+    title: "Credit: R. Soummer"
 aas_honolulu_2020:
   - url: /assets/gallery/2020_Lucas_AAS_Honolulu_1.jpg
     image_path: /assets/gallery/2020_Lucas_AAS_Honolulu_1.jpg
     alt: "Lucas with his AAS poster"
-    title: "Lucas with his AAS poster"
+    title: "Credit: M. Perrin"
   - url: /assets/gallery/2020_Lucas_AAS_Honolulu_2.jpg
     image_path: /assets/gallery/2020_Lucas_AAS_Honolulu_2.jpg
     alt: "Lucas demonstrating the TUBE"
-    title: "Lucas demonstrating the TUBEr"
+    title: "Credit: M. Perrin"
   - url: /assets/gallery/2020_Lucas_AAS_Honolulu_3.jpg
     image_path: /assets/gallery/2020_Lucas_AAS_Honolulu_3.jpg
     alt: "Lucas demonstrating the TUBE"
-    title: "Lucas demonstrating the TUBE"
+    title: "Credit: M. Perrin"
 washington_post_2024:
   - url: https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTNRX5YS6AE2SEU3PWMA7LPCSI.JPG&high_res=true&w=2048
     image_path: https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTNRX5YS6AE2SEU3PWMA7LPCSI.JPG&high_res=true&w=2048
     alt: "Dr. Vanessa Bailey with BabyCAT 2.0 at JPL"
-    title: "Dr. Vanessa Bailey with BabyCAT 2.0 at JPL"
+    title: "Credit: Jay L. Clendenin for The Washington Post"
 ---
 ## BabyCAT at the AAS winter meeting 2019 in Seattle
 
