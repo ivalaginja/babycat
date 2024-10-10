@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13916899.svg)](https://doi.org/10.5281/zenodo.13916899)
+
 # BabyCAT
 Website for the coronagraph demo bench "BabyCAT".
 
