@@ -69,6 +69,11 @@ ssw_2024:
     image_path: /assets/gallery/2024_ssw_4.jpg
     alt: "BabyCAT 2 at the Sagan Summer Workshop 2024"
     title: "BabyCAT 2 at the Sagan Summer Workshop 2024"
+washington_post_2024:
+  - url: https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTNRX5YS6AE2SEU3PWMA7LPCSI.JPG&high_res=true&w=2048
+    image_path: https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTNRX5YS6AE2SEU3PWMA7LPCSI.JPG&high_res=true&w=2048
+    alt: "Dr. Vanessa Bailey with BabyCAT 2.0 at JPL"
+    title: "Dr. Vanessa Bailey with BabyCAT 2.0 at JPL"
 ---
 ## BabyCAT at the AAS winter meeting 2019 in Seattle
 
