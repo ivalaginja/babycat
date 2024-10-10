@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Get parts list"
       url: /parts-list/
-  caption: "Photo credit: [**STScI/RMOL**](https://www.stsci.edu/stsci-research/research-topics-and-programs/russell-b-makidon-optics-laboratory)"
+  caption: "Photo credit: [**R. Soummer**]"
 excerpt: "A portable coronagraph bench."
 intro: 
   - excerpt: 'Welcome to the BabyCAT website! BabyCAT is a portable coronagraph bench designed to interactively demonstrate coronagraphy. You can download a full parts list and build your own BabyCAT - make sure to let us know if you do!'
