@@ -51,19 +51,19 @@ ssw_2024:
   - url: /assets/gallery/2024_ssw_1.jpg
     image_path: /assets/gallery/2024_ssw_1.jpg
     alt: "BabyCAT 2 at the Sagan Summer Workshop 2024"
-    title: "BabyCAT 2 at the Sagan Summer Workshop 2024"
+    title: "Credit: T. Chen"
   - url: /assets/gallery/2024_ssw_2.jpg
     image_path: /assets/gallery/2024_ssw_2.jpg
     alt: "BabyCAT 2 at the Sagan Summer Workshop 2024"
-    title: "BabyCAT 2 at the Sagan Summer Workshop 2024"
+    title: "Credit: T. Chen"
   - url: /assets/gallery/2024_ssw_3.jpg
     image_path: /assets/gallery/2024_ssw_3.jpg
     alt: "BabyCAT 2 at the Sagan Summer Workshop 2024"
-    title: "BabyCAT 2 at the Sagan Summer Workshop 2024"
+    title: "Credit: T. Chen"
   - url: /assets/gallery/2024_ssw_4.jpg
     image_path: /assets/gallery/2024_ssw_4.jpg
     alt: "BabyCAT 2 at the Sagan Summer Workshop 2024"
-    title: "BabyCAT 2 at the Sagan Summer Workshop 2024"
+    title: "Credit: T. Chen"
 washington_post_2024:
   - url: https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTNRX5YS6AE2SEU3PWMA7LPCSI.JPG&high_res=true&w=2048
     image_path: https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTNRX5YS6AE2SEU3PWMA7LPCSI.JPG&high_res=true&w=2048
