@@ -62,7 +62,7 @@ and when screwing down mounts in their final location.
 
 The final goal is a demonstration that is visually instructive regarding the operation of a coronagraph for exo-planet
 imaging. Precision alignments may not strictly be necessary to achieve this. However, experience has shown that some
-care and finesse is need to align the system well. Otherwise, there will be appreciable aberrations (primarily
+care and finesse is needed to align the system well. Otherwise, there will be appreciable aberrations (primarily
 astigmatism) visible in the system PSF and the “star” light will not be effectively rejected. It is also possible to
 have a system that is nearly aligned, but a mechanical interference presents itself when attempting to, for example,
 perform final focusing on the Lyot stop. Multiple iterations of the alignment procedure may be required to achieve good
