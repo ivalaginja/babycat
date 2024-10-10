@@ -27,6 +27,9 @@ gallery_assembly_images:
     alt: "BabyCAT2 top view short side"
     title: "BabyCAT2 top view short side"
 ---
+{: .notice--success}
+For CAD and Zemax files, check out the following GitHub repository: [https://github.com/spacetelescope/BabyCAT](https://github.com/spacetelescope/BabyCAT).
+
 ## Unfolded Optical Layout
 
 BabyCAT contains a classical Lyot coronagraph with a Lyot stop adjustable in diameter. The unfolded optical layout is shown below.
