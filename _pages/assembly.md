@@ -40,7 +40,7 @@ In this setup, the three optical elements 1-3 (OE1, OE2, OE3) are spherical mirr
 
 ![Optical Layout](/assets/images/BabyCAT_unfolded.png){: .align-center}
 
-Below, you can see close-up images of the reflective focal-plane mask (left) and the Lyot stop iris (right) on their respective magnetic
+Below, you can see close-up images of the reflective focal-plane mask (FPM, left) and the Lyot stop (LS) iris (right) on their respective magnetic
 mounts.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/fpm_ls.png" alt="FPM and LS" width="600"/>{: .align-center}
@@ -58,14 +58,14 @@ The below is a schematic of the general layout of the demo coronagraph.
 [Download PDF](https://github.com/ivalaginja/babycat/tree/main/assets/pdfs/assembly_outline.pdf){: .btn .btn--danger}
 
 The alignment of the demo coronagraph requires some familiarity with standard optical alignment techniques and the use
-of standard optics mounts, as well as good judgment as to when PSFs and images are in good focus. For cost reasons, most
+of standard optics mounts, as well as good judgment as to when point-spread functions (PSFs) and images are in good focus. For cost reasons, most
 mounts in BabyCAT do not have adjustment actuators. As a result, adjustments have to be made by carefully sliding mounts
 across the breadboard and by sliding posts up and down in post holders. Care is required when performing these movements
 and when screwing down mounts in their final location.
 
-The final goal is a demonstration that is visually instructive regarding the operation of a coronagraph for exo-planet
+The final goal is a demonstration that is visually instructive regarding the operation of a coronagraph for exoplanet
 imaging. Precision alignments may not strictly be necessary to achieve this. However, experience has shown that some
-care and finesse is needed to align the system well. Otherwise, there will be appreciable aberrations (primarily
+care and finesse are needed to align the system well. Otherwise, there will be appreciable aberrations (primarily
 astigmatism) visible in the system PSF and the “star” light will not be effectively rejected. It is also possible to
 have a system that is nearly aligned, but a mechanical interference presents itself when attempting to, for example,
 perform final focusing on the Lyot stop. Multiple iterations of the alignment procedure may be required to achieve good
@@ -99,7 +99,7 @@ helps reduce angles of incidence and minimize astigmatism. (Note that in an alre
 5. Adjust the lateral position of the FPM to align the beam with the pinhole.
 6. Adjust pupil camera such that it is perpendicular to the beam path. Use a transmissive paper to
 establish beam path and ease centering on the camera.
-7. Adjust pupil camera to establish best focus, using the sharpness of PSF edges as a guide.
+7. Adjust pupil camera to establish best focus, using the sharpness of pupil edges as a guide.
 
 ### Refocusing the focal-plane mask
 
@@ -108,15 +108,15 @@ disassembled and repositioned. Note that moving the FPM changes the conjugates (
 spherical mirror and final imaging optic.
 
 1. Disassemble the imaging backend.
-2. Insert a pickoff (flat) mirror and re-imaging lens to acquire an image of the back of the FPM.
-3. The camera can be brought to focus by finding the plane in which the PSF is best-focused (which will be conjugate to the best focus of the FPM.)
+2. Insert a pick-off (flat) mirror and re-imaging lens to acquire an image of the back of the FPM.
+3. The camera can be brought to focus by finding the plane in which the PSF is best-focused (which will be conjugate to the best focus of the FPM).
 4. Adjust the FPM position to maintain centering and bring the edges into focus.
-5. Re-align the imaging backend (may take ~ 1 hour).
+5. Re-align the imaging backend (may take ~1 hour).
 
 ## Assembly images
 
 Below you can find a couple of images of the assembled BabyCAT and BabyCAT2 benches. The assembly with a grey frame is
-BabyCAT, and the assembly with a black frame is the evolved BabyCAT2, on which the parts list on this website is based on.
+BabyCAT, and the assembly with a black frame is the evolved BabyCAT2, on which the parts list of this website is based on.
 
 Keep in mind that the assembly images are for reference only and may not be the most up-to-date version of the benches.
 For example, the images of BabyCAT show the green laser listed in the parts list, while the images of BabyCAT2 show a

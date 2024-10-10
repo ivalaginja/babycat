@@ -36,7 +36,7 @@ easily to conferences and outreach events.
 
 The BabyCAT project was designed in 2019 by a team of scientists at the
 [Russell B. Makidon Optics Laboratory](https://www.stsci.edu/stsci-research/research-topics-and-programs/russell-b-makidon-optics-laboratory)
-at the [Space Telescope Science Institite](https://www.stsci.edu/).
+at the [Space Telescope Science Institute](https://www.stsci.edu/).
 Its goal is to make advanced optical techniques more accessible to a wider audience.
 
 The first ever BabyCAT coronagraph demonstration bench was built in 2019 and has since been used in various educational
@@ -49,8 +49,8 @@ who worked with the RMOL team and STScI's Office of Public Outreach (OPO) during
 "High-contrast imager for Complex Aperture Telescopes" testbed. Since the demo coronagraph was supposed to illustrate a
 mini version of HiCAT, the name "BabyCAT" seemed immediately evident.
 
-The second demo bench, BabyCAT 2.0, was also assembled at the Makidon lab and later delivered to ExEP at JPL. Its
-upgraded design is the one that is presented on this website. 
+The second demo bench, BabyCAT 2.0, was also assembled at the Makidon lab and later delivered to ExEP at NASA's Jet
+Propulsion Laboratory (JPL). Its upgraded design is the one that is presented on this website. 
 
 ## Where This Setup Is Used
 

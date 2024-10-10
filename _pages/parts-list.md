@@ -7,8 +7,7 @@ sidebar:
   nav: "parts"
 ---
 
-This page lists all the parts required to build the portable coronagraph. The list is divided into several categories
-listed in the navigation bar on the left.
+This page lists all the parts required to build the portable coronagraph.
 
 To build a fully functional coronagraph bench, you will need all components from the two sections
 [Optical Components](#optical-components) and [Screws and tools](#screws-and-tools). Note how for the screws, you could
