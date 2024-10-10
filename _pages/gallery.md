@@ -84,7 +84,7 @@ ssw_2024:
 
 ## Sagan Summer Workshop 2024
 
-{% include gallery id="ssw_2024" caption="BabyCAT 2.0 at the Sagan Summer Workshop 2024" %}
+{% include gallery id="ssw_2024" layout="half" caption="BabyCAT 2.0 at the Sagan Summer Workshop 2024" %}
 
 ## BabyCAT 2.0 featured in the Washington post
 
