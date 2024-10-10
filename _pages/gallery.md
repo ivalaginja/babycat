@@ -47,11 +47,6 @@ aas_honolulu_2020:
     image_path: /assets/gallery/2020_Lucas_AAS_Honolulu_3.jpg
     alt: "Lucas demonstrating the TUBE"
     title: "Credit: M. Perrin"
-washington_post_2024:
-  - url: https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTNRX5YS6AE2SEU3PWMA7LPCSI.JPG&high_res=true&w=2048
-    image_path: https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTNRX5YS6AE2SEU3PWMA7LPCSI.JPG&high_res=true&w=2048
-    alt: "Dr. Vanessa Bailey with BabyCAT 2.0 at JPL"
-    title: "Credit: Jay L. Clendenin for The Washington Post"
 ssw_2024:
   - url: /assets/gallery/2024_ssw_1.jpg
     image_path: /assets/gallery/2024_ssw_1.jpg
@@ -73,7 +68,7 @@ washington_post_2024:
   - url: https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTNRX5YS6AE2SEU3PWMA7LPCSI.JPG&high_res=true&w=2048
     image_path: https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTNRX5YS6AE2SEU3PWMA7LPCSI.JPG&high_res=true&w=2048
     alt: "Dr. Vanessa Bailey with BabyCAT 2.0 at JPL"
-    title: "Dr. Vanessa Bailey with BabyCAT 2.0 at JPL"
+    title: "Credit: Jay L. Clendenin for The Washington Post"
 ---
 ## BabyCAT at the AAS winter meeting 2019 in Seattle
 
@@ -89,7 +84,7 @@ washington_post_2024:
 
 ## Sagan Summer Workshop 2024
 
-{% include gallery id="ssw_2024" layout="half" caption="BabyCAT 2.0 at the Sagan Summer Workshop 2024" %}
+{% include gallery id="ssw_2024" layout="half" %}
 
 ## BabyCAT 2.0 featured in the Washington post
 
