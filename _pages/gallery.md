@@ -52,6 +52,23 @@ washington_post_2024:
     image_path: https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTNRX5YS6AE2SEU3PWMA7LPCSI.JPG&high_res=true&w=2048
     alt: "Dr. Vanessa Bailey with BabyCAT 2.0 at JPL"
     title: "Credit: Jay L. Clendenin for The Washington Post"
+ssw_2024:
+  - url: /assets/gallery/2024_ssw_1.jpg
+    image_path: /assets/gallery/2024_ssw_1.jpg
+    alt: "BabyCAT 2 at the Sagan Summer Workshop 2024"
+    title: "BabyCAT 2 at the Sagan Summer Workshop 2024"
+  - url: /assets/gallery/2024_ssw_2.jpg
+    image_path: /assets/gallery/2024_ssw_2.jpg
+    alt: "BabyCAT 2 at the Sagan Summer Workshop 2024"
+    title: "BabyCAT 2 at the Sagan Summer Workshop 2024"
+  - url: /assets/gallery/2024_ssw_3.jpg
+    image_path: /assets/gallery/2024_ssw_3.jpg
+    alt: "BabyCAT 2 at the Sagan Summer Workshop 2024"
+    title: "BabyCAT 2 at the Sagan Summer Workshop 2024"
+  - url: /assets/gallery/2024_ssw_4.jpg
+    image_path: /assets/gallery/2024_ssw_4.jpg
+    alt: "BabyCAT 2 at the Sagan Summer Workshop 2024"
+    title: "BabyCAT 2 at the Sagan Summer Workshop 2024"
 ---
 ## BabyCAT at the AAS winter meeting 2019 in Seattle
 
@@ -64,6 +81,10 @@ washington_post_2024:
 ## AAS winter meeting, Honolulu 2020
 
 {% include gallery id="aas_honolulu_2020" %}
+
+## Sagan Summer Workshop 2024
+
+{% include gallery id="ssw_2024" caption="BabyCAT 2.0 at the Sagan Summer Workshop 2024" %}
 
 ## BabyCAT 2.0 featured in the Washington post
 
