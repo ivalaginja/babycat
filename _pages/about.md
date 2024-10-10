@@ -107,9 +107,30 @@ If you are presenting a demo coronagraph built after our base design, please giv
 on presentation slides and associated materials, showing the [logo](https://github.com/ivalaginja/babycat/blob/main/assets/images/Babycat_logo_text.jpeg)
 if possible.
 
-If you are preparing a publication that uses references, please cite the website with:
+If you are preparing a publication that cites references, please cite the website with:
 
-[include citation here, DOI coming soon]
+```bibtex
+@software{Laginja2024BabyCATwebsite,
+  author       = {Laginja, Iva and
+                  Soummer, Rémi and
+                  Brady, Greg and
+                  Petrone, Peter and
+                  McChesney, Evelyn and
+                  Batista, Lucas and
+                  Rhue, Timothy and
+                  Lockwood, Alexandra and
+                  Fowler, Jules and
+                  Will, Scott and
+                  Kautz, Maggie},
+  title        = {ivalaginja/babycat: BabyCAT launch},
+  month        = oct,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v0.1.0},
+  doi          = {10.5281/zenodo.13916899},
+  url          = {https://doi.org/10.5281/zenodo.13916899}
+}
+```
 
 ## Disclaimer
 
