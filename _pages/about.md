@@ -9,8 +9,8 @@ sidebar:
 
 ## What is a Coronagraph?
 
-A coronagraph is an optical instrument used in astronomical observations. It blocks the light from a star in order to
-observe the faint objects around it. Originally, the solar coronagraph was developed to observe the Sun's corona. After
+A coronagraph is an optical instrument used in astronomical observations. It [manipulates the light from a star](https://www.stsci.edu/contents/annual-reports/2019/manipulating-starlight) in order to
+allow observations of faint objects around it. Originally, the solar coronagraph was developed to observe the Sun's corona. After
 adaptations in the 60's and 70's, stellar coronagraphs can be used to find exoplanets, study a star's environment, and
 observe circumstellar disks. NASA's next flagship mission, the Habitable Worlds Observatory (HWO), will be specifically
 designed for coronagraphy in order to find and characterize several tens of potentially habitable, Earth-like exoplanets.
