@@ -2,7 +2,7 @@
   Component name: "1.00\u201D X 1.00\u201D T-Slotted Profile - Two Adjacent Open T-Slots (Part\
     \ No. 1002-S-Black-FB)"
   Source: https://8020.net/1002-s-black-fb.html
-  Unit price estimate ($): 38
+  Unit price estimate ($): 23
   Quantity: 2
   Assembly location: Box
   Vendor: 80/20
@@ -12,7 +12,7 @@
   Component name: "1.00\u201D X 1.00\u201D T-Slotted Profile - Two Adjacent Open T-Slots (Part\
     \ No. 1002-S-Black-FB)"
   Source: https://8020.net/1002-s-black-fb.html
-  Unit price estimate ($): 18
+  Unit price estimate ($): 12
   Quantity: 2
   Assembly location: Box
   Vendor: 80/20
@@ -22,7 +22,7 @@
   Component name: "1.00\u201D X 1.00\u201D T-Slotted Profile - Two Adjacent Open T-Slots (Part\
     \ No. 1002-S-Black-FB)"
   Source: https://8020.net/1002-s-black-fb.html
-  Unit price estimate ($): 23
+  Unit price estimate ($): 9
   Quantity: 4
   Assembly location: Box
   Vendor: 80/20
@@ -31,34 +31,34 @@
 - Description: Frame screws
   Component name: 1/4-20 x 1.000" Low Head Socket Cap Screw (LHSCS) (Part No. 3017)
   Source: https://8020.net/3017.html
-  Unit price estimate ($): 1
+  Unit price estimate ($): 21
   Quantity: 12
   Assembly location: Box
   Vendor: 80/20
-  Notes: These are 1/4-20 caps screws
+  Notes: Price estimate for pack of 25; these are 1/4-20 caps screws
 
 - Description: Corner brackets
   Component name: 10 Series 2 Hole - Gusseted Inside Corner Bracket (Part No. 4132-Black)
   Source: https://8020.net/4132-black.html
-  Unit price estimate ($): 8
+  Unit price estimate ($): 90
   Quantity: 4
   Assembly location: Box
   Vendor: 80/20
-  Notes:
+  Notes: Price estimate for pack of 10
 
 - Description: Corner connector
   Component name: 10 Series 3 Way - Squared Corner Connector (Part No. 4042-Black)
   Source: https://8020.net/4042-black.html
-  Unit price estimate ($): 34
+  Unit price estimate ($): 145
   Quantity: 4
   Assembly location: Box
   Vendor: 80/20
-  Notes:
+  Notes: Price estimate for pack of 4
 
 - Description: Acrylic sheets
   Component name: Clear Scratch- and UV-Resistant Cast Acrylic Sheets
-  Source: https://www.mcmaster.com/8560k192
-  Unit price estimate ($): 21
+  Source: https://www.mcmaster.com/product/8560K257
+  Unit price estimate ($): 22
   Quantity: 4
   Assembly location: Box
   Vendor: McMaster
