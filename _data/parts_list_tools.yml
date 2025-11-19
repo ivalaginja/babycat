@@ -1,7 +1,7 @@
 - Description: 'Key for 1/4"-20 cap screws (Balldriver)'
   Component name: 'BD-3/16 - 3/16" Balldriver'
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=BD-3/16
-  Unit price estimate ($): 6
+  Unit price estimate ($): 7
   Assembly location: '1/4-20 cap screws'
   Vendor: Thorlabs
   Notes: IMPERIAL!!
@@ -9,7 +9,7 @@
 - Description: '0.5" spanner wrench'
   Component name: 'SPW603 - Spanner Wrench for SM05-Threaded Retaining Rings, Length = 1.00"'
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=SPW603
-  Unit price estimate ($): 27
+  Unit price estimate ($): 31
   Assembly location: '0.5" lens mount'
   Vendor: Thorlabs
   Notes:
@@ -17,7 +17,7 @@
 - Description: '1" spanner wrench'
   Component name: 'SPW606 - Spanner Wrench for SM1-Threaded Retaining Rings, Length = 1.00"'
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=SPW606
-  Unit price estimate ($): 30
+  Unit price estimate ($): 34
   Assembly location: '1" lens mount, 1" lens mount for FPM'
   Vendor: Thorlabs
   Notes:
@@ -25,7 +25,7 @@
 - Description: 'Hex key set'
   Component name: CCHK - 11-Piece Color-Coded Hex Key Set, Imperial
   Source: https://www.thorlabs.com/thorproduct.cfm?partnumber=CCHK
-  Unit price estimate ($): 30
+  Unit price estimate ($): 31
   Assembly location: 'Laser mount/adapter, Kinematic mirror mount, 8-32 set screws'
   Vendor: Thorlabs
   Notes: IMPERIAL!!
