@@ -34,7 +34,8 @@ Note how the above price estimate includes the three alignment optics (labelled 
 
 It is further possible to reduce the cost by replacing the laser-cut aperture mask listed in the table below with a
 2.5 mm [Thorlabs alignment tool](https://www.thorlabs.com/thorproduct.cfm?partnumber=AP2.5) that doubles as an aperture,
-for $13. The quality of the aperture image will be lower, but it is easy to upgrade this at a later time.
+for $13. The quality of the aperture image will be lower, but it is easy to upgrade this at a later time. **If you opt
+for the alignment tool as your aperture, don't forget to order an extra 1/2" lens mount for it.**
 
 [Download PDF](https://github.com/ivalaginja/babycat/tree/main/assets/pdfs/parts_list_optics.pdf){: .btn .btn--danger}
 
