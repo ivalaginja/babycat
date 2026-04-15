@@ -16,14 +16,14 @@
   Vendor: Thorlabs
   Notes: Comes in a 100 pack
 
-- Description: 8-32 set screws
-  Component name:
-  Source:
-  Unit price estimate ($):
-  Min. quantity: 6
+- Description: 8-32 cap screws
+  Component name: '8-32 Stainless Steel Cap Screw, /4" Long, 50 Pack'
+  Source: https://www.thorlabs.com/item/SH8S075
+  Unit price estimate ($): 10
+  Min. quantity: 4
   Assembly location: 'FPM translation stage, 0.5"lens mount, 1" lens mount for FPM, 1" lens mount'
   Vendor: Thorlabs
-  Notes: Translation stage to magnetic mount connection
+  Notes: Comes in a pack of 50
 
 - Description: Adapter screws
   Component name: "AE8E25E - Adapter with Internal 8-32 Threads and External 1/4\"-20 Threads,\
