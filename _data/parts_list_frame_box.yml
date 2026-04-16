@@ -35,7 +35,7 @@
   Quantity: 12
   Assembly location: Box
   Vendor: 80/20
-  Notes: Price estimate for pack of 25; these are 1/4-20 caps screws
+  Notes: Price estimate for pack of 25; these are 1/4-20 cap screws
 
 - Description: Corner brackets
   Component name: 10 Series 2 Hole - Gusseted Inside Corner Bracket (Part No. 4132-Black)
@@ -62,7 +62,7 @@
   Quantity: 4
   Assembly location: Box
   Vendor: McMaster
-  Notes: "Four sheets of 12\u201D x 24\u201D, thickness 1/8\u201D"
+  Notes: "Four sheets of 12\u201D x 24\u201D, thickness 1/8\u201D, then need to cut to shape"
 
 - Description: Sheet handles
   Component name: Threaded-Hole Round Pull Handle
@@ -72,3 +72,21 @@
   Assembly location: Box
   Vendor: McMaster
   Notes:
+
+- Description: Sheet handle screws
+  Component name: 316 Stainless Steel Pan Head Phillips Screw
+  Source: https://www.mcmaster.com/91735A145/
+  Unit price estimate ($): 6.70
+  Quantity: 1
+  Assembly location: Box
+  Vendor: McMaster
+  Notes: Pack of 50
+
+- Description: Sheet handle screws washers
+  Component name: Nylon Plastic Washer
+  Source: https://www.mcmaster.com/90295A384/
+  Unit price estimate ($): 5.00
+  Quantity: 1
+  Assembly location: Box
+  Vendor: McMaster
+  Notes: Pack of 50
